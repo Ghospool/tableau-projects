@@ -2,11 +2,12 @@
 
 Dashboards and analyses by **Gospel Iyioku**: PhD in sustainable technologies and data analyst, working with quantitative and econometric modelling in R and Python, and with Power BI, Tableau and Excel for decision-ready reporting.
 
-All projects use public or synthetic data. Each folder explains the question, the data, the method, the findings and the limitations, and links to the live version where one exists.
+All projects use public or synthetic data. Each project explains the question, the data, the method, the findings and the limitations, and links to the live version where one exists.
 
 | Project | Tool | Question answered |
 |---|---|---|
 | [Aviation Safety: Executive Overview](aviation-safety-tableau) | Tableau | Where, when and in what circumstances are recorded aviation accidents concentrated, and how reliable is the record? |
+| [Canadian Agriculture: Precision-Tech Adoption](https://github.com/Ghospool/canadian-agriculture-powerbi) | Power BI, R | Does farm size or crop mix explain which Canadian farms adopt precision agriculture, and does adoption pay off? |
 
 ## Related work
 

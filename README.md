@@ -1,18 +1,18 @@
-# Analytics Portfolio
+# Tableau Projects
 
-Dashboards and analyses by **Gospel Iyioku**: PhD in sustainable technologies and data analyst, working with quantitative and econometric modelling in R and Python, and with Power BI, Tableau and Excel for decision-ready reporting.
+Tableau dashboards and case studies by **Gospel Iyioku**, PhD: each one documents the question, the data, data-quality findings, the method and the limitations, with a link to the live version on Tableau Public.
 
-All projects use public or synthetic data. Each project explains the question, the data, the method, the findings and the limitations, and links to the live version where one exists.
+All projects use public or synthetic data.
 
-| Project | Tool | Question answered |
+| Project | Question answered | Live dashboard |
 |---|---|---|
-| [Aviation Safety: Executive Overview](aviation-safety-tableau) | Tableau | Where, when and in what circumstances are recorded aviation accidents concentrated, and how reliable is the record? |
-| [Canadian Agriculture: Precision-Tech Adoption](https://github.com/Ghospool/canadian-agriculture-powerbi) | Power BI, R | Does farm size or crop mix explain which Canadian farms adopt precision agriculture, and does adoption pay off? |
+| [Aviation Safety: Executive Overview](aviation-safety-tableau) | Where, when and in what circumstances are recorded aviation accidents concentrated, and how reliable is the record? | [Tableau Public](https://public.tableau.com/app/profile/gospel.ayodele.iyioku/viz/AviationSafetyExecutiveOverview/Overview#1) |
 
 ## Related work
 
-- [Claude Agentic Workflows](https://github.com/Ghospool/claude-agentic-workflows_practice): four tested AI workflows built on the Claude API (routing, chaining, parallel processing, research agent).
-- [Metric Reconciliation Agent](https://github.com/Ghospool/metric-reconciliation-agent): an agent that explains why two reports disagree, with a cent-exact bridge of causes.
+- [Power BI Projects](https://github.com/Ghospool/power-bi-projects): Power BI dashboards with R modelling.
+- [Claude Agentic Workflows](https://github.com/Ghospool/claude-agentic-workflows_practice): four tested AI workflows on the Claude API.
+- [Metric Reconciliation Agent](https://github.com/Ghospool/metric-reconciliation-agent): explains why two reports disagree, with a cent-exact bridge of causes.
 
 ## License
 

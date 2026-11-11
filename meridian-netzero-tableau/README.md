@@ -33,8 +33,4 @@ Relationships (not joins) across four data sources; calculated fields, parameter
 | `Meridian_NetZero_Tableau.twbx` | Packaged Tableau workbook |
 | `data/` | CSV star schema |
 | `scripts/` | Python generators for data, assets and guides |
-| `assets/` | Dashboard backgrounds, logo, navigation images, layout spec |
-| `Dashboard_Previews/` | HTML previews of the target dashboards |
-| `START_HERE_Tableau_Build_Guide.html` | Build guide |
-| `Dashboard_Assembly_Guide.html` | Dashboard assembly steps |
-| `Client_Ready_Checklist.html` | Final QA checklist |
+| `assets/` | Dashboard backgrounds, logo, navigation images

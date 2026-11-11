@@ -1,0 +1,1261 @@
+date,region,scenario,carbon_price_usd_per_t
+2024-01-01,UK & North Sea,Low,39.24
+2024-02-01,UK & North Sea,Low,39.76
+2024-03-01,UK & North Sea,Low,38.9
+2024-04-01,UK & North Sea,Low,37.8
+2024-05-01,UK & North Sea,Low,38.29
+2024-06-01,UK & North Sea,Low,40.57
+2024-07-01,UK & North Sea,Low,40.48
+2024-08-01,UK & North Sea,Low,41.63
+2024-09-01,UK & North Sea,Low,39.58
+2024-10-01,UK & North Sea,Low,42.34
+2024-11-01,UK & North Sea,Low,40.72
+2024-12-01,UK & North Sea,Low,43.7
+2025-01-01,UK & North Sea,Low,43.5
+2025-02-01,UK & North Sea,Low,43.95
+2025-03-01,UK & North Sea,Low,43.37
+2025-04-01,UK & North Sea,Low,45.17
+2025-05-01,UK & North Sea,Low,44.47
+2025-06-01,UK & North Sea,Low,46.27
+2025-07-01,UK & North Sea,Low,45.98
+2025-08-01,UK & North Sea,Low,46.28
+2025-09-01,UK & North Sea,Low,47.38
+2025-10-01,UK & North Sea,Low,47.84
+2025-11-01,UK & North Sea,Low,46.6
+2025-12-01,UK & North Sea,Low,46.51
+2026-01-01,UK & North Sea,Low,49.05
+2026-02-01,UK & North Sea,Low,51.22
+2026-03-01,UK & North Sea,Low,50.17
+2026-04-01,UK & North Sea,Low,50.6
+2026-05-01,UK & North Sea,Low,51.16
+2026-06-01,UK & North Sea,Low,50.19
+2026-07-01,UK & North Sea,Low,52.13
+2026-08-01,UK & North Sea,Low,53.28
+2026-09-01,UK & North Sea,Low,52.46
+2026-10-01,UK & North Sea,Low,51.73
+2026-11-01,UK & North Sea,Low,54.84
+2026-12-01,UK & North Sea,Low,53.91
+2027-01-01,UK & North Sea,Low,54.21
+2027-02-01,UK & North Sea,Low,56.41
+2027-03-01,UK & North Sea,Low,56.21
+2027-04-01,UK & North Sea,Low,57.17
+2027-05-01,UK & North Sea,Low,58.45
+2027-06-01,UK & North Sea,Low,56.99
+2027-07-01,UK & North Sea,Low,60.1
+2027-08-01,UK & North Sea,Low,59.64
+2027-09-01,UK & North Sea,Low,60.83
+2027-10-01,UK & North Sea,Low,60.91
+2027-11-01,UK & North Sea,Low,58.9
+2027-12-01,UK & North Sea,Low,60.85
+2028-01-01,UK & North Sea,Low,61.29
+2028-02-01,UK & North Sea,Low,63.37
+2028-03-01,UK & North Sea,Low,60.2
+2028-04-01,UK & North Sea,Low,62.81
+2028-05-01,UK & North Sea,Low,65.22
+2028-06-01,UK & North Sea,Low,64.6
+2028-07-01,UK & North Sea,Low,65.7
+2028-08-01,UK & North Sea,Low,65.53
+2028-09-01,UK & North Sea,Low,65.06
+2028-10-01,UK & North Sea,Low,66.89
+2028-11-01,UK & North Sea,Low,66.86
+2028-12-01,UK & North Sea,Low,66.43
+2029-01-01,UK & North Sea,Low,67.79
+2029-02-01,UK & North Sea,Low,66.23
+2029-03-01,UK & North Sea,Low,70.93
+2029-04-01,UK & North Sea,Low,71.67
+2029-05-01,UK & North Sea,Low,68.95
+2029-06-01,UK & North Sea,Low,72.46
+2029-07-01,UK & North Sea,Low,72.62
+2029-08-01,UK & North Sea,Low,75.27
+2029-09-01,UK & North Sea,Low,75.75
+2029-10-01,UK & North Sea,Low,70.71
+2029-11-01,UK & North Sea,Low,73.92
+2029-12-01,UK & North Sea,Low,73.49
+2030-01-01,UK & North Sea,Low,71.81
+2030-02-01,UK & North Sea,Low,76.7
+2030-03-01,UK & North Sea,Low,76.7
+2030-04-01,UK & North Sea,Low,75.4
+2030-05-01,UK & North Sea,Low,76.18
+2030-06-01,UK & North Sea,Low,76.78
+2030-07-01,UK & North Sea,Low,79.89
+2030-08-01,UK & North Sea,Low,77.44
+2030-09-01,UK & North Sea,Low,79.66
+2030-10-01,UK & North Sea,Low,79.33
+2030-11-01,UK & North Sea,Low,77.84
+2030-12-01,UK & North Sea,Low,78.22
+2024-01-01,Continental Europe,Low,49.47
+2024-02-01,Continental Europe,Low,48.16
+2024-03-01,Continental Europe,Low,48.89
+2024-04-01,Continental Europe,Low,49.2
+2024-05-01,Continental Europe,Low,52.07
+2024-06-01,Continental Europe,Low,51.51
+2024-07-01,Continental Europe,Low,51.12
+2024-08-01,Continental Europe,Low,51.39
+2024-09-01,Continental Europe,Low,55.34
+2024-10-01,Continental Europe,Low,51.8
+2024-11-01,Continental Europe,Low,54.31
+2024-12-01,Continental Europe,Low,54.57
+2025-01-01,Continental Europe,Low,56.15
+2025-02-01,Continental Europe,Low,53.87
+2025-03-01,Continental Europe,Low,56.86
+2025-04-01,Continental Europe,Low,54.98
+2025-05-01,Continental Europe,Low,54.89
+2025-06-01,Continental Europe,Low,58.73
+2025-07-01,Continental Europe,Low,56.92
+2025-08-01,Continental Europe,Low,59.54
+2025-09-01,Continental Europe,Low,58.95
+2025-10-01,Continental Europe,Low,58.21
+2025-11-01,Continental Europe,Low,58.17
+2025-12-01,Continental Europe,Low,62.01
+2026-01-01,Continental Europe,Low,59.92
+2026-02-01,Continental Europe,Low,61.63
+2026-03-01,Continental Europe,Low,64.8
+2026-04-01,Continental Europe,Low,63.52
+2026-05-01,Continental Europe,Low,63.4
+2026-06-01,Continental Europe,Low,63.98
+2026-07-01,Continental Europe,Low,67.91
+2026-08-01,Continental Europe,Low,65.72
+2026-09-01,Continental Europe,Low,65.77
+2026-10-01,Continental Europe,Low,65.96
+2026-11-01,Continental Europe,Low,66.88
+2026-12-01,Continental Europe,Low,67.89
+2027-01-01,Continental Europe,Low,67.82
+2027-02-01,Continental Europe,Low,67.55
+2027-03-01,Continental Europe,Low,70.91
+2027-04-01,Continental Europe,Low,71.54
+2027-05-01,Continental Europe,Low,70.52
+2027-06-01,Continental Europe,Low,72.65
+2027-07-01,Continental Europe,Low,71.71
+2027-08-01,Continental Europe,Low,73.04
+2027-09-01,Continental Europe,Low,71.39
+2027-10-01,Continental Europe,Low,75.63
+2027-11-01,Continental Europe,Low,76.48
+2027-12-01,Continental Europe,Low,77.36
+2028-01-01,Continental Europe,Low,76.69
+2028-02-01,Continental Europe,Low,79.01
+2028-03-01,Continental Europe,Low,76.26
+2028-04-01,Continental Europe,Low,78.28
+2028-05-01,Continental Europe,Low,80.56
+2028-06-01,Continental Europe,Low,83.1
+2028-07-01,Continental Europe,Low,79.63
+2028-08-01,Continental Europe,Low,80.0
+2028-09-01,Continental Europe,Low,83.05
+2028-10-01,Continental Europe,Low,80.9
+2028-11-01,Continental Europe,Low,82.16
+2028-12-01,Continental Europe,Low,81.55
+2029-01-01,Continental Europe,Low,83.03
+2029-02-01,Continental Europe,Low,84.09
+2029-03-01,Continental Europe,Low,82.91
+2029-04-01,Continental Europe,Low,84.03
+2029-05-01,Continental Europe,Low,87.3
+2029-06-01,Continental Europe,Low,86.52
+2029-07-01,Continental Europe,Low,84.22
+2029-08-01,Continental Europe,Low,88.12
+2029-09-01,Continental Europe,Low,87.38
+2029-10-01,Continental Europe,Low,89.3
+2029-11-01,Continental Europe,Low,89.44
+2029-12-01,Continental Europe,Low,89.44
+2030-01-01,Continental Europe,Low,90.34
+2030-02-01,Continental Europe,Low,90.3
+2030-03-01,Continental Europe,Low,90.12
+2030-04-01,Continental Europe,Low,92.68
+2030-05-01,Continental Europe,Low,94.71
+2030-06-01,Continental Europe,Low,96.7
+2030-07-01,Continental Europe,Low,95.67
+2030-08-01,Continental Europe,Low,95.11
+2030-09-01,Continental Europe,Low,93.76
+2030-10-01,Continental Europe,Low,97.99
+2030-11-01,Continental Europe,Low,100.68
+2030-12-01,Continental Europe,Low,96.44
+2024-01-01,North America,Low,17.7
+2024-02-01,North America,Low,18.34
+2024-03-01,North America,Low,17.63
+2024-04-01,North America,Low,18.67
+2024-05-01,North America,Low,19.12
+2024-06-01,North America,Low,19.36
+2024-07-01,North America,Low,19.85
+2024-08-01,North America,Low,20.13
+2024-09-01,North America,Low,19.92
+2024-10-01,North America,Low,20.32
+2024-11-01,North America,Low,21.35
+2024-12-01,North America,Low,21.3
+2025-01-01,North America,Low,21.91
+2025-02-01,North America,Low,21.72
+2025-03-01,North America,Low,22.07
+2025-04-01,North America,Low,22.45
+2025-05-01,North America,Low,22.65
+2025-06-01,North America,Low,23.5
+2025-07-01,North America,Low,24.75
+2025-08-01,North America,Low,24.38
+2025-09-01,North America,Low,24.51
+2025-10-01,North America,Low,25.46
+2025-11-01,North America,Low,25.82
+2025-12-01,North America,Low,26.55
+2026-01-01,North America,Low,26.81
+2026-02-01,North America,Low,26.82
+2026-03-01,North America,Low,27.31
+2026-04-01,North America,Low,27.97
+2026-05-01,North America,Low,27.62
+2026-06-01,North America,Low,28.65
+2026-07-01,North America,Low,28.57
+2026-08-01,North America,Low,29.47
+2026-09-01,North America,Low,30.22
+2026-10-01,North America,Low,30.09
+2026-11-01,North America,Low,30.15
+2026-12-01,North America,Low,30.21
+2027-01-01,North America,Low,31.43
+2027-02-01,North America,Low,32.79
+2027-03-01,North America,Low,32.16
+2027-04-01,North America,Low,33.47
+2027-05-01,North America,Low,33.65
+2027-06-01,North America,Low,33.22
+2027-07-01,North America,Low,34.25
+2027-08-01,North America,Low,33.36
+2027-09-01,North America,Low,34.05
+2027-10-01,North America,Low,35.73
+2027-11-01,North America,Low,36.48
+2027-12-01,North America,Low,37.32
+2028-01-01,North America,Low,37.82
+2028-02-01,North America,Low,36.39
+2028-03-01,North America,Low,37.84
+2028-04-01,North America,Low,37.99
+2028-05-01,North America,Low,37.04
+2028-06-01,North America,Low,38.75
+2028-07-01,North America,Low,40.18
+2028-08-01,North America,Low,39.61
+2028-09-01,North America,Low,39.46
+2028-10-01,North America,Low,39.52
+2028-11-01,North America,Low,42.22
+2028-12-01,North America,Low,40.59
+2029-01-01,North America,Low,42.85
+2029-02-01,North America,Low,40.76
+2029-03-01,North America,Low,43.75
+2029-04-01,North America,Low,43.14
+2029-05-01,North America,Low,44.91
+2029-06-01,North America,Low,44.84
+2029-07-01,North America,Low,46.36
+2029-08-01,North America,Low,43.65
+2029-09-01,North America,Low,45.66
+2029-10-01,North America,Low,45.63
+2029-11-01,North America,Low,47.01
+2029-12-01,North America,Low,47.13
+2030-01-01,North America,Low,47.63
+2030-02-01,North America,Low,48.6
+2030-03-01,North America,Low,48.18
+2030-04-01,North America,Low,49.54
+2030-05-01,North America,Low,48.62
+2030-06-01,North America,Low,49.73
+2030-07-01,North America,Low,49.33
+2030-08-01,North America,Low,50.33
+2030-09-01,North America,Low,50.64
+2030-10-01,North America,Low,51.37
+2030-11-01,North America,Low,51.34
+2030-12-01,North America,Low,51.49
+2024-01-01,Middle East,Low,3.45
+2024-02-01,Middle East,Low,3.54
+2024-03-01,Middle East,Low,3.76
+2024-04-01,Middle East,Low,3.85
+2024-05-01,Middle East,Low,3.86
+2024-06-01,Middle East,Low,4.32
+2024-07-01,Middle East,Low,4.32
+2024-08-01,Middle East,Low,4.48
+2024-09-01,Middle East,Low,4.42
+2024-10-01,Middle East,Low,4.66
+2024-11-01,Middle East,Low,4.75
+2024-12-01,Middle East,Low,5.05
+2025-01-01,Middle East,Low,5.17
+2025-02-01,Middle East,Low,5.37
+2025-03-01,Middle East,Low,5.74
+2025-04-01,Middle East,Low,5.82
+2025-05-01,Middle East,Low,5.75
+2025-06-01,Middle East,Low,5.88
+2025-07-01,Middle East,Low,6.35
+2025-08-01,Middle East,Low,6.13
+2025-09-01,Middle East,Low,6.65
+2025-10-01,Middle East,Low,6.71
+2025-11-01,Middle East,Low,6.88
+2025-12-01,Middle East,Low,6.87
+2026-01-01,Middle East,Low,7.11
+2026-02-01,Middle East,Low,7.27
+2026-03-01,Middle East,Low,7.45
+2026-04-01,Middle East,Low,7.31
+2026-05-01,Middle East,Low,7.67
+2026-06-01,Middle East,Low,7.88
+2026-07-01,Middle East,Low,8.08
+2026-08-01,Middle East,Low,8.03
+2026-09-01,Middle East,Low,8.25
+2026-10-01,Middle East,Low,8.47
+2026-11-01,Middle East,Low,8.74
+2026-12-01,Middle East,Low,8.9
+2027-01-01,Middle East,Low,8.99
+2027-02-01,Middle East,Low,8.96
+2027-03-01,Middle East,Low,9.37
+2027-04-01,Middle East,Low,9.67
+2027-05-01,Middle East,Low,9.81
+2027-06-01,Middle East,Low,9.95
+2027-07-01,Middle East,Low,10.28
+2027-08-01,Middle East,Low,10.18
+2027-09-01,Middle East,Low,10.2
+2027-10-01,Middle East,Low,10.7
+2027-11-01,Middle East,Low,11.67
+2027-12-01,Middle East,Low,11.11
+2028-01-01,Middle East,Low,11.07
+2028-02-01,Middle East,Low,11.07
+2028-03-01,Middle East,Low,11.2
+2028-04-01,Middle East,Low,11.59
+2028-05-01,Middle East,Low,11.94
+2028-06-01,Middle East,Low,11.92
+2028-07-01,Middle East,Low,12.37
+2028-08-01,Middle East,Low,12.58
+2028-09-01,Middle East,Low,12.61
+2028-10-01,Middle East,Low,12.59
+2028-11-01,Middle East,Low,12.44
+2028-12-01,Middle East,Low,12.56
+2029-01-01,Middle East,Low,13.82
+2029-02-01,Middle East,Low,13.41
+2029-03-01,Middle East,Low,13.49
+2029-04-01,Middle East,Low,13.77
+2029-05-01,Middle East,Low,14.1
+2029-06-01,Middle East,Low,14.23
+2029-07-01,Middle East,Low,14.12
+2029-08-01,Middle East,Low,14.46
+2029-09-01,Middle East,Low,14.7
+2029-10-01,Middle East,Low,15.1
+2029-11-01,Middle East,Low,15.34
+2029-12-01,Middle East,Low,14.95
+2030-01-01,Middle East,Low,15.26
+2030-02-01,Middle East,Low,15.52
+2030-03-01,Middle East,Low,16.08
+2030-04-01,Middle East,Low,16.22
+2030-05-01,Middle East,Low,16.44
+2030-06-01,Middle East,Low,16.49
+2030-07-01,Middle East,Low,16.47
+2030-08-01,Middle East,Low,16.64
+2030-09-01,Middle East,Low,17.74
+2030-10-01,Middle East,Low,17.15
+2030-11-01,Middle East,Low,16.72
+2030-12-01,Middle East,Low,17.58
+2024-01-01,Asia Pacific,Low,10.24
+2024-02-01,Asia Pacific,Low,11.08
+2024-03-01,Asia Pacific,Low,11.0
+2024-04-01,Asia Pacific,Low,11.1
+2024-05-01,Asia Pacific,Low,11.68
+2024-06-01,Asia Pacific,Low,12.21
+2024-07-01,Asia Pacific,Low,11.96
+2024-08-01,Asia Pacific,Low,11.88
+2024-09-01,Asia Pacific,Low,12.78
+2024-10-01,Asia Pacific,Low,12.83
+2024-11-01,Asia Pacific,Low,12.74
+2024-12-01,Asia Pacific,Low,13.58
+2025-01-01,Asia Pacific,Low,13.7
+2025-02-01,Asia Pacific,Low,13.78
+2025-03-01,Asia Pacific,Low,14.88
+2025-04-01,Asia Pacific,Low,15.05
+2025-05-01,Asia Pacific,Low,15.02
+2025-06-01,Asia Pacific,Low,15.72
+2025-07-01,Asia Pacific,Low,15.92
+2025-08-01,Asia Pacific,Low,15.84
+2025-09-01,Asia Pacific,Low,15.9
+2025-10-01,Asia Pacific,Low,16.34
+2025-11-01,Asia Pacific,Low,16.84
+2025-12-01,Asia Pacific,Low,17.36
+2026-01-01,Asia Pacific,Low,17.33
+2026-02-01,Asia Pacific,Low,18.36
+2026-03-01,Asia Pacific,Low,17.54
+2026-04-01,Asia Pacific,Low,18.97
+2026-05-01,Asia Pacific,Low,19.01
+2026-06-01,Asia Pacific,Low,19.48
+2026-07-01,Asia Pacific,Low,19.76
+2026-08-01,Asia Pacific,Low,20.43
+2026-09-01,Asia Pacific,Low,20.19
+2026-10-01,Asia Pacific,Low,20.11
+2026-11-01,Asia Pacific,Low,21.12
+2026-12-01,Asia Pacific,Low,20.97
+2027-01-01,Asia Pacific,Low,21.3
+2027-02-01,Asia Pacific,Low,22.66
+2027-03-01,Asia Pacific,Low,21.97
+2027-04-01,Asia Pacific,Low,22.7
+2027-05-01,Asia Pacific,Low,22.29
+2027-06-01,Asia Pacific,Low,23.51
+2027-07-01,Asia Pacific,Low,24.03
+2027-08-01,Asia Pacific,Low,23.83
+2027-09-01,Asia Pacific,Low,24.76
+2027-10-01,Asia Pacific,Low,25.16
+2027-11-01,Asia Pacific,Low,25.28
+2027-12-01,Asia Pacific,Low,25.04
+2028-01-01,Asia Pacific,Low,26.03
+2028-02-01,Asia Pacific,Low,26.53
+2028-03-01,Asia Pacific,Low,26.47
+2028-04-01,Asia Pacific,Low,27.28
+2028-05-01,Asia Pacific,Low,27.17
+2028-06-01,Asia Pacific,Low,27.49
+2028-07-01,Asia Pacific,Low,28.1
+2028-08-01,Asia Pacific,Low,28.59
+2028-09-01,Asia Pacific,Low,28.46
+2028-10-01,Asia Pacific,Low,29.52
+2028-11-01,Asia Pacific,Low,29.17
+2028-12-01,Asia Pacific,Low,29.57
+2029-01-01,Asia Pacific,Low,29.6
+2029-02-01,Asia Pacific,Low,31.16
+2029-03-01,Asia Pacific,Low,31.15
+2029-04-01,Asia Pacific,Low,31.07
+2029-05-01,Asia Pacific,Low,30.69
+2029-06-01,Asia Pacific,Low,31.75
+2029-07-01,Asia Pacific,Low,32.08
+2029-08-01,Asia Pacific,Low,32.18
+2029-09-01,Asia Pacific,Low,33.19
+2029-10-01,Asia Pacific,Low,33.69
+2029-11-01,Asia Pacific,Low,34.24
+2029-12-01,Asia Pacific,Low,33.36
+2030-01-01,Asia Pacific,Low,33.68
+2030-02-01,Asia Pacific,Low,35.74
+2030-03-01,Asia Pacific,Low,34.48
+2030-04-01,Asia Pacific,Low,35.36
+2030-05-01,Asia Pacific,Low,35.34
+2030-06-01,Asia Pacific,Low,36.59
+2030-07-01,Asia Pacific,Low,37.22
+2030-08-01,Asia Pacific,Low,37.51
+2030-09-01,Asia Pacific,Low,37.9
+2030-10-01,Asia Pacific,Low,37.99
+2030-11-01,Asia Pacific,Low,38.12
+2030-12-01,Asia Pacific,Low,37.68
+2024-01-01,UK & North Sea,Base,54.85
+2024-02-01,UK & North Sea,Base,54.42
+2024-03-01,UK & North Sea,Base,56.8
+2024-04-01,UK & North Sea,Base,57.99
+2024-05-01,UK & North Sea,Base,55.48
+2024-06-01,UK & North Sea,Base,58.3
+2024-07-01,UK & North Sea,Base,57.93
+2024-08-01,UK & North Sea,Base,58.1
+2024-09-01,UK & North Sea,Base,59.61
+2024-10-01,UK & North Sea,Base,60.28
+2024-11-01,UK & North Sea,Base,62.31
+2024-12-01,UK & North Sea,Base,60.67
+2025-01-01,UK & North Sea,Base,64.24
+2025-02-01,UK & North Sea,Base,61.06
+2025-03-01,UK & North Sea,Base,62.7
+2025-04-01,UK & North Sea,Base,62.64
+2025-05-01,UK & North Sea,Base,63.44
+2025-06-01,UK & North Sea,Base,65.44
+2025-07-01,UK & North Sea,Base,66.01
+2025-08-01,UK & North Sea,Base,68.31
+2025-09-01,UK & North Sea,Base,67.65
+2025-10-01,UK & North Sea,Base,65.93
+2025-11-01,UK & North Sea,Base,69.18
+2025-12-01,UK & North Sea,Base,72.38
+2026-01-01,UK & North Sea,Base,69.14
+2026-02-01,UK & North Sea,Base,72.08
+2026-03-01,UK & North Sea,Base,73.1
+2026-04-01,UK & North Sea,Base,71.77
+2026-05-01,UK & North Sea,Base,74.39
+2026-06-01,UK & North Sea,Base,73.15
+2026-07-01,UK & North Sea,Base,72.65
+2026-08-01,UK & North Sea,Base,77.34
+2026-09-01,UK & North Sea,Base,76.55
+2026-10-01,UK & North Sea,Base,75.57
+2026-11-01,UK & North Sea,Base,76.2
+2026-12-01,UK & North Sea,Base,79.65
+2027-01-01,UK & North Sea,Base,81.51
+2027-02-01,UK & North Sea,Base,81.81
+2027-03-01,UK & North Sea,Base,77.76
+2027-04-01,UK & North Sea,Base,81.17
+2027-05-01,UK & North Sea,Base,81.84
+2027-06-01,UK & North Sea,Base,81.96
+2027-07-01,UK & North Sea,Base,79.63
+2027-08-01,UK & North Sea,Base,82.85
+2027-09-01,UK & North Sea,Base,86.25
+2027-10-01,UK & North Sea,Base,87.47
+2027-11-01,UK & North Sea,Base,86.44
+2027-12-01,UK & North Sea,Base,88.38
+2028-01-01,UK & North Sea,Base,90.0
+2028-02-01,UK & North Sea,Base,87.6
+2028-03-01,UK & North Sea,Base,91.01
+2028-04-01,UK & North Sea,Base,90.67
+2028-05-01,UK & North Sea,Base,89.61
+2028-06-01,UK & North Sea,Base,87.99
+2028-07-01,UK & North Sea,Base,93.57
+2028-08-01,UK & North Sea,Base,90.69
+2028-09-01,UK & North Sea,Base,93.52
+2028-10-01,UK & North Sea,Base,93.11
+2028-11-01,UK & North Sea,Base,94.43
+2028-12-01,UK & North Sea,Base,96.06
+2029-01-01,UK & North Sea,Base,100.48
+2029-02-01,UK & North Sea,Base,93.11
+2029-03-01,UK & North Sea,Base,96.4
+2029-04-01,UK & North Sea,Base,97.04
+2029-05-01,UK & North Sea,Base,100.25
+2029-06-01,UK & North Sea,Base,101.87
+2029-07-01,UK & North Sea,Base,101.29
+2029-08-01,UK & North Sea,Base,101.88
+2029-09-01,UK & North Sea,Base,102.09
+2029-10-01,UK & North Sea,Base,103.51
+2029-11-01,UK & North Sea,Base,106.13
+2029-12-01,UK & North Sea,Base,102.39
+2030-01-01,UK & North Sea,Base,106.67
+2030-02-01,UK & North Sea,Base,106.28
+2030-03-01,UK & North Sea,Base,105.88
+2030-04-01,UK & North Sea,Base,108.51
+2030-05-01,UK & North Sea,Base,108.27
+2030-06-01,UK & North Sea,Base,109.54
+2030-07-01,UK & North Sea,Base,109.83
+2030-08-01,UK & North Sea,Base,114.65
+2030-09-01,UK & North Sea,Base,110.69
+2030-10-01,UK & North Sea,Base,114.11
+2030-11-01,UK & North Sea,Base,114.74
+2030-12-01,UK & North Sea,Base,112.23
+2024-01-01,Continental Europe,Base,69.28
+2024-02-01,Continental Europe,Base,68.98
+2024-03-01,Continental Europe,Base,70.34
+2024-04-01,Continental Europe,Base,72.76
+2024-05-01,Continental Europe,Base,70.56
+2024-06-01,Continental Europe,Base,71.01
+2024-07-01,Continental Europe,Base,76.69
+2024-08-01,Continental Europe,Base,73.78
+2024-09-01,Continental Europe,Base,74.52
+2024-10-01,Continental Europe,Base,77.83
+2024-11-01,Continental Europe,Base,75.79
+2024-12-01,Continental Europe,Base,77.45
+2025-01-01,Continental Europe,Base,76.88
+2025-02-01,Continental Europe,Base,78.12
+2025-03-01,Continental Europe,Base,78.43
+2025-04-01,Continental Europe,Base,79.1
+2025-05-01,Continental Europe,Base,80.43
+2025-06-01,Continental Europe,Base,82.53
+2025-07-01,Continental Europe,Base,83.45
+2025-08-01,Continental Europe,Base,85.45
+2025-09-01,Continental Europe,Base,83.67
+2025-10-01,Continental Europe,Base,83.02
+2025-11-01,Continental Europe,Base,87.0
+2025-12-01,Continental Europe,Base,86.64
+2026-01-01,Continental Europe,Base,87.77
+2026-02-01,Continental Europe,Base,87.14
+2026-03-01,Continental Europe,Base,89.3
+2026-04-01,Continental Europe,Base,89.13
+2026-05-01,Continental Europe,Base,92.0
+2026-06-01,Continental Europe,Base,91.71
+2026-07-01,Continental Europe,Base,92.16
+2026-08-01,Continental Europe,Base,94.36
+2026-09-01,Continental Europe,Base,96.63
+2026-10-01,Continental Europe,Base,96.53
+2026-11-01,Continental Europe,Base,97.19
+2026-12-01,Continental Europe,Base,97.09
+2027-01-01,Continental Europe,Base,100.49
+2027-02-01,Continental Europe,Base,98.51
+2027-03-01,Continental Europe,Base,100.6
+2027-04-01,Continental Europe,Base,98.59
+2027-05-01,Continental Europe,Base,104.63
+2027-06-01,Continental Europe,Base,103.4
+2027-07-01,Continental Europe,Base,102.02
+2027-08-01,Continental Europe,Base,100.68
+2027-09-01,Continental Europe,Base,101.58
+2027-10-01,Continental Europe,Base,105.1
+2027-11-01,Continental Europe,Base,106.38
+2027-12-01,Continental Europe,Base,107.4
+2028-01-01,Continental Europe,Base,107.8
+2028-02-01,Continental Europe,Base,108.49
+2028-03-01,Continental Europe,Base,109.26
+2028-04-01,Continental Europe,Base,111.35
+2028-05-01,Continental Europe,Base,109.65
+2028-06-01,Continental Europe,Base,115.33
+2028-07-01,Continental Europe,Base,112.4
+2028-08-01,Continental Europe,Base,113.31
+2028-09-01,Continental Europe,Base,120.46
+2028-10-01,Continental Europe,Base,113.99
+2028-11-01,Continental Europe,Base,118.47
+2028-12-01,Continental Europe,Base,114.67
+2029-01-01,Continental Europe,Base,117.07
+2029-02-01,Continental Europe,Base,120.3
+2029-03-01,Continental Europe,Base,122.71
+2029-04-01,Continental Europe,Base,119.62
+2029-05-01,Continental Europe,Base,120.42
+2029-06-01,Continental Europe,Base,124.91
+2029-07-01,Continental Europe,Base,121.45
+2029-08-01,Continental Europe,Base,125.01
+2029-09-01,Continental Europe,Base,130.61
+2029-10-01,Continental Europe,Base,123.91
+2029-11-01,Continental Europe,Base,130.24
+2029-12-01,Continental Europe,Base,128.5
+2030-01-01,Continental Europe,Base,132.88
+2030-02-01,Continental Europe,Base,130.57
+2030-03-01,Continental Europe,Base,130.57
+2030-04-01,Continental Europe,Base,131.34
+2030-05-01,Continental Europe,Base,134.43
+2030-06-01,Continental Europe,Base,128.33
+2030-07-01,Continental Europe,Base,133.49
+2030-08-01,Continental Europe,Base,136.42
+2030-09-01,Continental Europe,Base,137.94
+2030-10-01,Continental Europe,Base,135.14
+2030-11-01,Continental Europe,Base,139.06
+2030-12-01,Continental Europe,Base,140.35
+2024-01-01,North America,Base,25.29
+2024-02-01,North America,Base,25.73
+2024-03-01,North America,Base,25.56
+2024-04-01,North America,Base,27.54
+2024-05-01,North America,Base,26.77
+2024-06-01,North America,Base,27.24
+2024-07-01,North America,Base,27.49
+2024-08-01,North America,Base,28.18
+2024-09-01,North America,Base,30.37
+2024-10-01,North America,Base,29.47
+2024-11-01,North America,Base,28.95
+2024-12-01,North America,Base,30.34
+2025-01-01,North America,Base,30.44
+2025-02-01,North America,Base,30.59
+2025-03-01,North America,Base,32.06
+2025-04-01,North America,Base,33.05
+2025-05-01,North America,Base,33.52
+2025-06-01,North America,Base,33.51
+2025-07-01,North America,Base,34.9
+2025-08-01,North America,Base,34.51
+2025-09-01,North America,Base,35.07
+2025-10-01,North America,Base,36.98
+2025-11-01,North America,Base,37.29
+2025-12-01,North America,Base,36.88
+2026-01-01,North America,Base,38.14
+2026-02-01,North America,Base,37.52
+2026-03-01,North America,Base,38.91
+2026-04-01,North America,Base,39.82
+2026-05-01,North America,Base,39.01
+2026-06-01,North America,Base,40.62
+2026-07-01,North America,Base,41.22
+2026-08-01,North America,Base,43.19
+2026-09-01,North America,Base,41.4
+2026-10-01,North America,Base,44.24
+2026-11-01,North America,Base,45.53
+2026-12-01,North America,Base,45.53
+2027-01-01,North America,Base,45.66
+2027-02-01,North America,Base,44.38
+2027-03-01,North America,Base,45.0
+2027-04-01,North America,Base,46.91
+2027-05-01,North America,Base,45.75
+2027-06-01,North America,Base,47.78
+2027-07-01,North America,Base,50.43
+2027-08-01,North America,Base,49.89
+2027-09-01,North America,Base,49.09
+2027-10-01,North America,Base,51.1
+2027-11-01,North America,Base,50.6
+2027-12-01,North America,Base,52.06
+2028-01-01,North America,Base,52.72
+2028-02-01,North America,Base,52.43
+2028-03-01,North America,Base,54.86
+2028-04-01,North America,Base,53.91
+2028-05-01,North America,Base,54.73
+2028-06-01,North America,Base,56.32
+2028-07-01,North America,Base,56.46
+2028-08-01,North America,Base,55.16
+2028-09-01,North America,Base,59.14
+2028-10-01,North America,Base,57.79
+2028-11-01,North America,Base,59.12
+2028-12-01,North America,Base,56.45
+2029-01-01,North America,Base,59.36
+2029-02-01,North America,Base,63.0
+2029-03-01,North America,Base,61.21
+2029-04-01,North America,Base,63.21
+2029-05-01,North America,Base,61.6
+2029-06-01,North America,Base,63.93
+2029-07-01,North America,Base,64.77
+2029-08-01,North America,Base,65.07
+2029-09-01,North America,Base,64.29
+2029-10-01,North America,Base,67.5
+2029-11-01,North America,Base,69.22
+2029-12-01,North America,Base,66.46
+2030-01-01,North America,Base,67.34
+2030-02-01,North America,Base,67.48
+2030-03-01,North America,Base,69.39
+2030-04-01,North America,Base,70.48
+2030-05-01,North America,Base,70.38
+2030-06-01,North America,Base,69.42
+2030-07-01,North America,Base,71.34
+2030-08-01,North America,Base,69.68
+2030-09-01,North America,Base,73.02
+2030-10-01,North America,Base,75.52
+2030-11-01,North America,Base,71.84
+2030-12-01,North America,Base,74.97
+2024-01-01,Middle East,Base,5.13
+2024-02-01,Middle East,Base,5.28
+2024-03-01,Middle East,Base,5.43
+2024-04-01,Middle East,Base,5.34
+2024-05-01,Middle East,Base,5.6
+2024-06-01,Middle East,Base,6.01
+2024-07-01,Middle East,Base,6.13
+2024-08-01,Middle East,Base,6.35
+2024-09-01,Middle East,Base,6.58
+2024-10-01,Middle East,Base,6.79
+2024-11-01,Middle East,Base,6.86
+2024-12-01,Middle East,Base,7.15
+2025-01-01,Middle East,Base,7.48
+2025-02-01,Middle East,Base,7.61
+2025-03-01,Middle East,Base,7.58
+2025-04-01,Middle East,Base,7.69
+2025-05-01,Middle East,Base,8.58
+2025-06-01,Middle East,Base,8.56
+2025-07-01,Middle East,Base,8.74
+2025-08-01,Middle East,Base,8.88
+2025-09-01,Middle East,Base,9.13
+2025-10-01,Middle East,Base,9.24
+2025-11-01,Middle East,Base,9.71
+2025-12-01,Middle East,Base,9.65
+2026-01-01,Middle East,Base,9.77
+2026-02-01,Middle East,Base,10.29
+2026-03-01,Middle East,Base,10.45
+2026-04-01,Middle East,Base,10.55
+2026-05-01,Middle East,Base,11.11
+2026-06-01,Middle East,Base,11.41
+2026-07-01,Middle East,Base,11.78
+2026-08-01,Middle East,Base,12.1
+2026-09-01,Middle East,Base,11.81
+2026-10-01,Middle East,Base,11.81
+2026-11-01,Middle East,Base,12.6
+2026-12-01,Middle East,Base,12.58
+2027-01-01,Middle East,Base,13.16
+2027-02-01,Middle East,Base,13.13
+2027-03-01,Middle East,Base,13.4
+2027-04-01,Middle East,Base,13.53
+2027-05-01,Middle East,Base,14.4
+2027-06-01,Middle East,Base,14.59
+2027-07-01,Middle East,Base,14.11
+2027-08-01,Middle East,Base,15.11
+2027-09-01,Middle East,Base,14.88
+2027-10-01,Middle East,Base,15.26
+2027-11-01,Middle East,Base,15.12
+2027-12-01,Middle East,Base,16.25
+2028-01-01,Middle East,Base,15.88
+2028-02-01,Middle East,Base,16.65
+2028-03-01,Middle East,Base,16.0
+2028-04-01,Middle East,Base,16.94
+2028-05-01,Middle East,Base,16.89
+2028-06-01,Middle East,Base,16.86
+2028-07-01,Middle East,Base,17.62
+2028-08-01,Middle East,Base,18.02
+2028-09-01,Middle East,Base,19.0
+2028-10-01,Middle East,Base,18.48
+2028-11-01,Middle East,Base,18.73
+2028-12-01,Middle East,Base,18.84
+2029-01-01,Middle East,Base,18.75
+2029-02-01,Middle East,Base,19.23
+2029-03-01,Middle East,Base,19.43
+2029-04-01,Middle East,Base,19.2
+2029-05-01,Middle East,Base,19.5
+2029-06-01,Middle East,Base,19.6
+2029-07-01,Middle East,Base,20.23
+2029-08-01,Middle East,Base,21.03
+2029-09-01,Middle East,Base,21.15
+2029-10-01,Middle East,Base,21.08
+2029-11-01,Middle East,Base,21.77
+2029-12-01,Middle East,Base,21.06
+2030-01-01,Middle East,Base,22.08
+2030-02-01,Middle East,Base,22.27
+2030-03-01,Middle East,Base,22.43
+2030-04-01,Middle East,Base,22.47
+2030-05-01,Middle East,Base,23.67
+2030-06-01,Middle East,Base,23.77
+2030-07-01,Middle East,Base,24.74
+2030-08-01,Middle East,Base,23.1
+2030-09-01,Middle East,Base,24.13
+2030-10-01,Middle East,Base,24.24
+2030-11-01,Middle East,Base,24.93
+2030-12-01,Middle East,Base,25.4
+2024-01-01,Asia Pacific,Base,14.98
+2024-02-01,Asia Pacific,Base,15.42
+2024-03-01,Asia Pacific,Base,15.16
+2024-04-01,Asia Pacific,Base,16.07
+2024-05-01,Asia Pacific,Base,16.32
+2024-06-01,Asia Pacific,Base,16.86
+2024-07-01,Asia Pacific,Base,16.9
+2024-08-01,Asia Pacific,Base,17.26
+2024-09-01,Asia Pacific,Base,17.93
+2024-10-01,Asia Pacific,Base,18.89
+2024-11-01,Asia Pacific,Base,18.72
+2024-12-01,Asia Pacific,Base,19.29
+2025-01-01,Asia Pacific,Base,20.16
+2025-02-01,Asia Pacific,Base,20.61
+2025-03-01,Asia Pacific,Base,20.33
+2025-04-01,Asia Pacific,Base,21.37
+2025-05-01,Asia Pacific,Base,21.49
+2025-06-01,Asia Pacific,Base,21.98
+2025-07-01,Asia Pacific,Base,22.2
+2025-08-01,Asia Pacific,Base,22.55
+2025-09-01,Asia Pacific,Base,23.2
+2025-10-01,Asia Pacific,Base,24.36
+2025-11-01,Asia Pacific,Base,24.85
+2025-12-01,Asia Pacific,Base,24.26
+2026-01-01,Asia Pacific,Base,26.34
+2026-02-01,Asia Pacific,Base,24.96
+2026-03-01,Asia Pacific,Base,25.74
+2026-04-01,Asia Pacific,Base,25.59
+2026-05-01,Asia Pacific,Base,27.53
+2026-06-01,Asia Pacific,Base,27.1
+2026-07-01,Asia Pacific,Base,28.49
+2026-08-01,Asia Pacific,Base,28.16
+2026-09-01,Asia Pacific,Base,29.27
+2026-10-01,Asia Pacific,Base,29.27
+2026-11-01,Asia Pacific,Base,29.0
+2026-12-01,Asia Pacific,Base,30.17
+2027-01-01,Asia Pacific,Base,31.56
+2027-02-01,Asia Pacific,Base,31.75
+2027-03-01,Asia Pacific,Base,32.89
+2027-04-01,Asia Pacific,Base,32.21
+2027-05-01,Asia Pacific,Base,33.02
+2027-06-01,Asia Pacific,Base,33.16
+2027-07-01,Asia Pacific,Base,34.62
+2027-08-01,Asia Pacific,Base,34.96
+2027-09-01,Asia Pacific,Base,34.24
+2027-10-01,Asia Pacific,Base,35.33
+2027-11-01,Asia Pacific,Base,35.65
+2027-12-01,Asia Pacific,Base,36.68
+2028-01-01,Asia Pacific,Base,36.92
+2028-02-01,Asia Pacific,Base,36.95
+2028-03-01,Asia Pacific,Base,37.15
+2028-04-01,Asia Pacific,Base,38.61
+2028-05-01,Asia Pacific,Base,39.84
+2028-06-01,Asia Pacific,Base,37.82
+2028-07-01,Asia Pacific,Base,39.2
+2028-08-01,Asia Pacific,Base,41.11
+2028-09-01,Asia Pacific,Base,40.86
+2028-10-01,Asia Pacific,Base,41.86
+2028-11-01,Asia Pacific,Base,41.38
+2028-12-01,Asia Pacific,Base,41.28
+2029-01-01,Asia Pacific,Base,42.19
+2029-02-01,Asia Pacific,Base,43.42
+2029-03-01,Asia Pacific,Base,42.75
+2029-04-01,Asia Pacific,Base,44.28
+2029-05-01,Asia Pacific,Base,45.22
+2029-06-01,Asia Pacific,Base,44.95
+2029-07-01,Asia Pacific,Base,45.73
+2029-08-01,Asia Pacific,Base,48.09
+2029-09-01,Asia Pacific,Base,46.01
+2029-10-01,Asia Pacific,Base,48.36
+2029-11-01,Asia Pacific,Base,47.85
+2029-12-01,Asia Pacific,Base,47.4
+2030-01-01,Asia Pacific,Base,50.79
+2030-02-01,Asia Pacific,Base,50.2
+2030-03-01,Asia Pacific,Base,51.35
+2030-04-01,Asia Pacific,Base,50.32
+2030-05-01,Asia Pacific,Base,53.06
+2030-06-01,Asia Pacific,Base,51.58
+2030-07-01,Asia Pacific,Base,54.49
+2030-08-01,Asia Pacific,Base,50.99
+2030-09-01,Asia Pacific,Base,52.31
+2030-10-01,Asia Pacific,Base,53.63
+2030-11-01,Asia Pacific,Base,53.7
+2030-12-01,Asia Pacific,Base,55.36
+2024-01-01,UK & North Sea,High,71.98
+2024-02-01,UK & North Sea,High,75.35
+2024-03-01,UK & North Sea,High,75.17
+2024-04-01,UK & North Sea,High,75.66
+2024-05-01,UK & North Sea,High,78.52
+2024-06-01,UK & North Sea,High,79.73
+2024-07-01,UK & North Sea,High,78.9
+2024-08-01,UK & North Sea,High,77.43
+2024-09-01,UK & North Sea,High,80.92
+2024-10-01,UK & North Sea,High,81.37
+2024-11-01,UK & North Sea,High,82.62
+2024-12-01,UK & North Sea,High,82.95
+2025-01-01,UK & North Sea,High,81.31
+2025-02-01,UK & North Sea,High,86.57
+2025-03-01,UK & North Sea,High,85.61
+2025-04-01,UK & North Sea,High,84.75
+2025-05-01,UK & North Sea,High,86.26
+2025-06-01,UK & North Sea,High,90.4
+2025-07-01,UK & North Sea,High,87.27
+2025-08-01,UK & North Sea,High,91.74
+2025-09-01,UK & North Sea,High,93.9
+2025-10-01,UK & North Sea,High,92.59
+2025-11-01,UK & North Sea,High,91.38
+2025-12-01,UK & North Sea,High,95.49
+2026-01-01,UK & North Sea,High,97.51
+2026-02-01,UK & North Sea,High,95.84
+2026-03-01,UK & North Sea,High,96.23
+2026-04-01,UK & North Sea,High,98.31
+2026-05-01,UK & North Sea,High,99.53
+2026-06-01,UK & North Sea,High,100.26
+2026-07-01,UK & North Sea,High,100.18
+2026-08-01,UK & North Sea,High,102.32
+2026-09-01,UK & North Sea,High,99.54
+2026-10-01,UK & North Sea,High,104.12
+2026-11-01,UK & North Sea,High,105.22
+2026-12-01,UK & North Sea,High,106.96
+2027-01-01,UK & North Sea,High,106.41
+2027-02-01,UK & North Sea,High,103.32
+2027-03-01,UK & North Sea,High,108.49
+2027-04-01,UK & North Sea,High,108.58
+2027-05-01,UK & North Sea,High,107.11
+2027-06-01,UK & North Sea,High,108.39
+2027-07-01,UK & North Sea,High,115.51
+2027-08-01,UK & North Sea,High,116.1
+2027-09-01,UK & North Sea,High,112.79
+2027-10-01,UK & North Sea,High,114.28
+2027-11-01,UK & North Sea,High,117.74
+2027-12-01,UK & North Sea,High,115.74
+2028-01-01,UK & North Sea,High,119.89
+2028-02-01,UK & North Sea,High,122.06
+2028-03-01,UK & North Sea,High,119.26
+2028-04-01,UK & North Sea,High,121.6
+2028-05-01,UK & North Sea,High,123.61
+2028-06-01,UK & North Sea,High,124.27
+2028-07-01,UK & North Sea,High,125.57
+2028-08-01,UK & North Sea,High,127.23
+2028-09-01,UK & North Sea,High,125.34
+2028-10-01,UK & North Sea,High,124.12
+2028-11-01,UK & North Sea,High,134.44
+2028-12-01,UK & North Sea,High,127.18
+2029-01-01,UK & North Sea,High,129.64
+2029-02-01,UK & North Sea,High,132.56
+2029-03-01,UK & North Sea,High,133.35
+2029-04-01,UK & North Sea,High,137.39
+2029-05-01,UK & North Sea,High,137.11
+2029-06-01,UK & North Sea,High,137.55
+2029-07-01,UK & North Sea,High,138.69
+2029-08-01,UK & North Sea,High,141.49
+2029-09-01,UK & North Sea,High,138.93
+2029-10-01,UK & North Sea,High,139.4
+2029-11-01,UK & North Sea,High,136.11
+2029-12-01,UK & North Sea,High,138.78
+2030-01-01,UK & North Sea,High,142.59
+2030-02-01,UK & North Sea,High,144.72
+2030-03-01,UK & North Sea,High,142.23
+2030-04-01,UK & North Sea,High,147.54
+2030-05-01,UK & North Sea,High,145.57
+2030-06-01,UK & North Sea,High,148.26
+2030-07-01,UK & North Sea,High,149.12
+2030-08-01,UK & North Sea,High,148.83
+2030-09-01,UK & North Sea,High,153.55
+2030-10-01,UK & North Sea,High,152.46
+2030-11-01,UK & North Sea,High,158.19
+2030-12-01,UK & North Sea,High,159.98
+2024-01-01,Continental Europe,High,95.47
+2024-02-01,Continental Europe,High,93.8
+2024-03-01,Continental Europe,High,98.61
+2024-04-01,Continental Europe,High,99.14
+2024-05-01,Continental Europe,High,95.98
+2024-06-01,Continental Europe,High,98.1
+2024-07-01,Continental Europe,High,101.73
+2024-08-01,Continental Europe,High,102.64
+2024-09-01,Continental Europe,High,103.56
+2024-10-01,Continental Europe,High,104.96
+2024-11-01,Continental Europe,High,103.07
+2024-12-01,Continental Europe,High,104.01
+2025-01-01,Continental Europe,High,109.72
+2025-02-01,Continental Europe,High,104.42
+2025-03-01,Continental Europe,High,105.83
+2025-04-01,Continental Europe,High,108.28
+2025-05-01,Continental Europe,High,110.62
+2025-06-01,Continental Europe,High,110.94
+2025-07-01,Continental Europe,High,111.22
+2025-08-01,Continental Europe,High,116.18
+2025-09-01,Continental Europe,High,116.19
+2025-10-01,Continental Europe,High,111.32
+2025-11-01,Continental Europe,High,114.91
+2025-12-01,Continental Europe,High,117.24
+2026-01-01,Continental Europe,High,118.86
+2026-02-01,Continental Europe,High,120.33
+2026-03-01,Continental Europe,High,120.74
+2026-04-01,Continental Europe,High,123.57
+2026-05-01,Continental Europe,High,125.14
+2026-06-01,Continental Europe,High,127.62
+2026-07-01,Continental Europe,High,123.41
+2026-08-01,Continental Europe,High,127.28
+2026-09-01,Continental Europe,High,128.12
+2026-10-01,Continental Europe,High,128.0
+2026-11-01,Continental Europe,High,130.87
+2026-12-01,Continental Europe,High,135.51
+2027-01-01,Continental Europe,High,127.73
+2027-02-01,Continental Europe,High,134.16
+2027-03-01,Continental Europe,High,136.83
+2027-04-01,Continental Europe,High,133.4
+2027-05-01,Continental Europe,High,137.3
+2027-06-01,Continental Europe,High,134.9
+2027-07-01,Continental Europe,High,140.65
+2027-08-01,Continental Europe,High,140.53
+2027-09-01,Continental Europe,High,137.99
+2027-10-01,Continental Europe,High,145.86
+2027-11-01,Continental Europe,High,143.72
+2027-12-01,Continental Europe,High,145.91
+2028-01-01,Continental Europe,High,148.25
+2028-02-01,Continental Europe,High,148.5
+2028-03-01,Continental Europe,High,147.39
+2028-04-01,Continental Europe,High,152.9
+2028-05-01,Continental Europe,High,150.69
+2028-06-01,Continental Europe,High,159.75
+2028-07-01,Continental Europe,High,154.14
+2028-08-01,Continental Europe,High,152.95
+2028-09-01,Continental Europe,High,154.66
+2028-10-01,Continental Europe,High,152.07
+2028-11-01,Continental Europe,High,152.07
+2028-12-01,Continental Europe,High,159.59
+2029-01-01,Continental Europe,High,160.1
+2029-02-01,Continental Europe,High,164.55
+2029-03-01,Continental Europe,High,162.3
+2029-04-01,Continental Europe,High,162.94
+2029-05-01,Continental Europe,High,159.57
+2029-06-01,Continental Europe,High,160.33
+2029-07-01,Continental Europe,High,162.36
+2029-08-01,Continental Europe,High,169.26
+2029-09-01,Continental Europe,High,180.74
+2029-10-01,Continental Europe,High,176.12
+2029-11-01,Continental Europe,High,170.25
+2029-12-01,Continental Europe,High,175.98
+2030-01-01,Continental Europe,High,172.34
+2030-02-01,Continental Europe,High,178.58
+2030-03-01,Continental Europe,High,175.12
+2030-04-01,Continental Europe,High,183.09
+2030-05-01,Continental Europe,High,176.76
+2030-06-01,Continental Europe,High,181.23
+2030-07-01,Continental Europe,High,184.48
+2030-08-01,Continental Europe,High,184.14
+2030-09-01,Continental Europe,High,184.85
+2030-10-01,Continental Europe,High,187.68
+2030-11-01,Continental Europe,High,192.25
+2030-12-01,Continental Europe,High,189.34
+2024-01-01,North America,High,34.79
+2024-02-01,North America,High,34.07
+2024-03-01,North America,High,34.37
+2024-04-01,North America,High,35.21
+2024-05-01,North America,High,36.46
+2024-06-01,North America,High,35.83
+2024-07-01,North America,High,36.86
+2024-08-01,North America,High,38.04
+2024-09-01,North America,High,39.26
+2024-10-01,North America,High,37.89
+2024-11-01,North America,High,40.96
+2024-12-01,North America,High,39.98
+2025-01-01,North America,High,43.53
+2025-02-01,North America,High,42.24
+2025-03-01,North America,High,44.76
+2025-04-01,North America,High,44.19
+2025-05-01,North America,High,44.94
+2025-06-01,North America,High,46.44
+2025-07-01,North America,High,46.68
+2025-08-01,North America,High,46.25
+2025-09-01,North America,High,47.73
+2025-10-01,North America,High,48.38
+2025-11-01,North America,High,48.11
+2025-12-01,North America,High,48.55
+2026-01-01,North America,High,51.35
+2026-02-01,North America,High,51.44
+2026-03-01,North America,High,53.9
+2026-04-01,North America,High,53.15
+2026-05-01,North America,High,52.94
+2026-06-01,North America,High,55.14
+2026-07-01,North America,High,56.83
+2026-08-01,North America,High,56.26
+2026-09-01,North America,High,57.82
+2026-10-01,North America,High,59.41
+2026-11-01,North America,High,58.09
+2026-12-01,North America,High,58.94
+2027-01-01,North America,High,60.19
+2027-02-01,North America,High,61.14
+2027-03-01,North America,High,64.06
+2027-04-01,North America,High,62.99
+2027-05-01,North America,High,65.25
+2027-06-01,North America,High,64.91
+2027-07-01,North America,High,65.01
+2027-08-01,North America,High,66.75
+2027-09-01,North America,High,66.43
+2027-10-01,North America,High,70.15
+2027-11-01,North America,High,69.14
+2027-12-01,North America,High,68.83
+2028-01-01,North America,High,71.96
+2028-02-01,North America,High,71.29
+2028-03-01,North America,High,72.86
+2028-04-01,North America,High,73.0
+2028-05-01,North America,High,74.53
+2028-06-01,North America,High,75.69
+2028-07-01,North America,High,72.12
+2028-08-01,North America,High,73.97
+2028-09-01,North America,High,76.7
+2028-10-01,North America,High,77.62
+2028-11-01,North America,High,78.2
+2028-12-01,North America,High,82.13
+2029-01-01,North America,High,80.45
+2029-02-01,North America,High,82.41
+2029-03-01,North America,High,82.37
+2029-04-01,North America,High,83.83
+2029-05-01,North America,High,83.85
+2029-06-01,North America,High,86.16
+2029-07-01,North America,High,84.36
+2029-08-01,North America,High,89.09
+2029-09-01,North America,High,86.31
+2029-10-01,North America,High,89.79
+2029-11-01,North America,High,90.52
+2029-12-01,North America,High,93.55
+2030-01-01,North America,High,91.01
+2030-02-01,North America,High,92.36
+2030-03-01,North America,High,90.46
+2030-04-01,North America,High,96.43
+2030-05-01,North America,High,95.35
+2030-06-01,North America,High,96.67
+2030-07-01,North America,High,95.87
+2030-08-01,North America,High,98.94
+2030-09-01,North America,High,99.42
+2030-10-01,North America,High,98.69
+2030-11-01,North America,High,101.73
+2030-12-01,North America,High,105.55
+2024-01-01,Middle East,High,6.45
+2024-02-01,Middle East,High,6.93
+2024-03-01,Middle East,High,7.38
+2024-04-01,Middle East,High,7.34
+2024-05-01,Middle East,High,7.72
+2024-06-01,Middle East,High,8.16
+2024-07-01,Middle East,High,8.45
+2024-08-01,Middle East,High,8.69
+2024-09-01,Middle East,High,8.66
+2024-10-01,Middle East,High,8.99
+2024-11-01,Middle East,High,9.58
+2024-12-01,Middle East,High,9.65
+2025-01-01,Middle East,High,9.87
+2025-02-01,Middle East,High,10.15
+2025-03-01,Middle East,High,10.42
+2025-04-01,Middle East,High,10.45
+2025-05-01,Middle East,High,11.1
+2025-06-01,Middle East,High,11.56
+2025-07-01,Middle East,High,12.18
+2025-08-01,Middle East,High,11.93
+2025-09-01,Middle East,High,12.12
+2025-10-01,Middle East,High,12.53
+2025-11-01,Middle East,High,12.84
+2025-12-01,Middle East,High,13.13
+2026-01-01,Middle East,High,12.83
+2026-02-01,Middle East,High,14.07
+2026-03-01,Middle East,High,14.69
+2026-04-01,Middle East,High,14.49
+2026-05-01,Middle East,High,15.03
+2026-06-01,Middle East,High,16.3
+2026-07-01,Middle East,High,15.51
+2026-08-01,Middle East,High,15.46
+2026-09-01,Middle East,High,16.59
+2026-10-01,Middle East,High,16.38
+2026-11-01,Middle East,High,17.02
+2026-12-01,Middle East,High,17.7
+2027-01-01,Middle East,High,17.96
+2027-02-01,Middle East,High,17.42
+2027-03-01,Middle East,High,17.72
+2027-04-01,Middle East,High,18.69
+2027-05-01,Middle East,High,19.29
+2027-06-01,Middle East,High,18.87
+2027-07-01,Middle East,High,18.86
+2027-08-01,Middle East,High,20.19
+2027-09-01,Middle East,High,20.16
+2027-10-01,Middle East,High,20.36
+2027-11-01,Middle East,High,21.52
+2027-12-01,Middle East,High,21.34
+2028-01-01,Middle East,High,21.55
+2028-02-01,Middle East,High,22.15
+2028-03-01,Middle East,High,22.44
+2028-04-01,Middle East,High,23.04
+2028-05-01,Middle East,High,23.01
+2028-06-01,Middle East,High,23.26
+2028-07-01,Middle East,High,23.44
+2028-08-01,Middle East,High,24.36
+2028-09-01,Middle East,High,24.9
+2028-10-01,Middle East,High,24.54
+2028-11-01,Middle East,High,24.52
+2028-12-01,Middle East,High,26.06
+2029-01-01,Middle East,High,25.04
+2029-02-01,Middle East,High,24.86
+2029-03-01,Middle East,High,25.42
+2029-04-01,Middle East,High,26.14
+2029-05-01,Middle East,High,27.23
+2029-06-01,Middle East,High,28.11
+2029-07-01,Middle East,High,27.57
+2029-08-01,Middle East,High,27.9
+2029-09-01,Middle East,High,28.61
+2029-10-01,Middle East,High,29.32
+2029-11-01,Middle East,High,29.4
+2029-12-01,Middle East,High,28.55
+2030-01-01,Middle East,High,29.25
+2030-02-01,Middle East,High,31.23
+2030-03-01,Middle East,High,29.95
+2030-04-01,Middle East,High,30.38
+2030-05-01,Middle East,High,32.29
+2030-06-01,Middle East,High,31.39
+2030-07-01,Middle East,High,32.46
+2030-08-01,Middle East,High,33.06
+2030-09-01,Middle East,High,33.07
+2030-10-01,Middle East,High,33.33
+2030-11-01,Middle East,High,32.19
+2030-12-01,Middle East,High,33.11
+2024-01-01,Asia Pacific,High,20.01
+2024-02-01,Asia Pacific,High,21.15
+2024-03-01,Asia Pacific,High,21.53
+2024-04-01,Asia Pacific,High,20.96
+2024-05-01,Asia Pacific,High,22.51
+2024-06-01,Asia Pacific,High,23.15
+2024-07-01,Asia Pacific,High,23.58
+2024-08-01,Asia Pacific,High,23.14
+2024-09-01,Asia Pacific,High,24.7
+2024-10-01,Asia Pacific,High,25.72
+2024-11-01,Asia Pacific,High,25.5
+2024-12-01,Asia Pacific,High,27.09
+2025-01-01,Asia Pacific,High,27.01
+2025-02-01,Asia Pacific,High,27.5
+2025-03-01,Asia Pacific,High,29.03
+2025-04-01,Asia Pacific,High,28.64
+2025-05-01,Asia Pacific,High,28.81
+2025-06-01,Asia Pacific,High,29.82
+2025-07-01,Asia Pacific,High,30.34
+2025-08-01,Asia Pacific,High,31.1
+2025-09-01,Asia Pacific,High,31.1
+2025-10-01,Asia Pacific,High,32.37
+2025-11-01,Asia Pacific,High,32.7
+2025-12-01,Asia Pacific,High,35.0
+2026-01-01,Asia Pacific,High,34.85
+2026-02-01,Asia Pacific,High,35.44
+2026-03-01,Asia Pacific,High,35.02
+2026-04-01,Asia Pacific,High,36.1
+2026-05-01,Asia Pacific,High,36.93
+2026-06-01,Asia Pacific,High,36.09
+2026-07-01,Asia Pacific,High,38.24
+2026-08-01,Asia Pacific,High,38.74
+2026-09-01,Asia Pacific,High,38.62
+2026-10-01,Asia Pacific,High,39.65
+2026-11-01,Asia Pacific,High,40.25
+2026-12-01,Asia Pacific,High,40.16
+2027-01-01,Asia Pacific,High,41.61
+2027-02-01,Asia Pacific,High,42.8
+2027-03-01,Asia Pacific,High,42.84
+2027-04-01,Asia Pacific,High,44.48
+2027-05-01,Asia Pacific,High,43.19
+2027-06-01,Asia Pacific,High,45.74
+2027-07-01,Asia Pacific,High,44.55
+2027-08-01,Asia Pacific,High,46.02
+2027-09-01,Asia Pacific,High,48.06
+2027-10-01,Asia Pacific,High,48.03
+2027-11-01,Asia Pacific,High,49.36
+2027-12-01,Asia Pacific,High,49.18
+2028-01-01,Asia Pacific,High,50.25
+2028-02-01,Asia Pacific,High,50.06
+2028-03-01,Asia Pacific,High,52.5
+2028-04-01,Asia Pacific,High,52.25
+2028-05-01,Asia Pacific,High,53.62
+2028-06-01,Asia Pacific,High,52.88
+2028-07-01,Asia Pacific,High,52.41
+2028-08-01,Asia Pacific,High,53.62
+2028-09-01,Asia Pacific,High,54.57
+2028-10-01,Asia Pacific,High,55.39
+2028-11-01,Asia Pacific,High,57.71
+2028-12-01,Asia Pacific,High,55.15
+2029-01-01,Asia Pacific,High,58.17
+2029-02-01,Asia Pacific,High,58.9
+2029-03-01,Asia Pacific,High,61.57
+2029-04-01,Asia Pacific,High,62.7
+2029-05-01,Asia Pacific,High,60.45
+2029-06-01,Asia Pacific,High,61.48
+2029-07-01,Asia Pacific,High,61.65
+2029-08-01,Asia Pacific,High,62.63
+2029-09-01,Asia Pacific,High,62.63
+2029-10-01,Asia Pacific,High,65.01
+2029-11-01,Asia Pacific,High,64.08
+2029-12-01,Asia Pacific,High,67.72
+2030-01-01,Asia Pacific,High,64.8
+2030-02-01,Asia Pacific,High,67.33
+2030-03-01,Asia Pacific,High,68.05
+2030-04-01,Asia Pacific,High,66.04
+2030-05-01,Asia Pacific,High,69.2
+2030-06-01,Asia Pacific,High,70.39
+2030-07-01,Asia Pacific,High,70.46
+2030-08-01,Asia Pacific,High,71.18
+2030-09-01,Asia Pacific,High,71.75
+2030-10-01,Asia Pacific,High,70.39
+2030-11-01,Asia Pacific,High,72.3
+2030-12-01,Asia Pacific,High,74.32

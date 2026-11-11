@@ -1,0 +1,631 @@
+year,business_unit,region,scope,emissions_tco2e,scenario
+2024,Midstream & Refining,Asia Pacific,1,250022.0,0. Actual
+2024,Midstream & Refining,Asia Pacific,2,10642.0,0. Actual
+2024,Midstream & Refining,Continental Europe,1,2159648.0,0. Actual
+2024,Midstream & Refining,Continental Europe,2,399087.0,0. Actual
+2024,Midstream & Refining,Middle East,1,310153.0,0. Actual
+2024,Midstream & Refining,Middle East,2,12497.0,0. Actual
+2024,Midstream & Refining,North America,1,3171930.0,0. Actual
+2024,Midstream & Refining,North America,2,458390.0,0. Actual
+2024,Midstream & Refining,UK & North Sea,1,405105.0,0. Actual
+2024,Midstream & Refining,UK & North Sea,2,16010.0,0. Actual
+2024,Networks & Corporate,Asia Pacific,1,90920.0,0. Actual
+2024,Networks & Corporate,Asia Pacific,2,73543.0,0. Actual
+2024,Networks & Corporate,Continental Europe,1,112608.0,0. Actual
+2024,Networks & Corporate,Continental Europe,2,137856.0,0. Actual
+2024,Networks & Corporate,Middle East,1,121867.0,0. Actual
+2024,Networks & Corporate,Middle East,2,104858.0,0. Actual
+2024,Networks & Corporate,North America,1,119653.0,0. Actual
+2024,Networks & Corporate,North America,2,94630.0,0. Actual
+2024,Networks & Corporate,UK & North Sea,1,84334.0,0. Actual
+2024,Networks & Corporate,UK & North Sea,2,68808.0,0. Actual
+2024,Power Generation,Asia Pacific,1,2965481.0,0. Actual
+2024,Power Generation,Asia Pacific,2,29859.0,0. Actual
+2024,Power Generation,Continental Europe,1,6572274.0,0. Actual
+2024,Power Generation,Continental Europe,2,33188.0,0. Actual
+2024,Power Generation,North America,1,5494446.0,0. Actual
+2024,Power Generation,North America,2,10856.0,0. Actual
+2024,Power Generation,UK & North Sea,1,2418033.0,0. Actual
+2024,Power Generation,UK & North Sea,2,14965.0,0. Actual
+2024,Renewables & New Energy,Asia Pacific,1,13844.0,0. Actual
+2024,Renewables & New Energy,Asia Pacific,2,20708.0,0. Actual
+2024,Renewables & New Energy,Continental Europe,1,13344.0,0. Actual
+2024,Renewables & New Energy,Continental Europe,2,20006.0,0. Actual
+2024,Renewables & New Energy,Middle East,1,6846.0,0. Actual
+2024,Renewables & New Energy,Middle East,2,10260.0,0. Actual
+2024,Renewables & New Energy,North America,1,13114.0,0. Actual
+2024,Renewables & New Energy,North America,2,19600.0,0. Actual
+2024,Renewables & New Energy,UK & North Sea,1,20652.0,0. Actual
+2024,Renewables & New Energy,UK & North Sea,2,30942.0,0. Actual
+2024,Upstream Oil & Gas,Asia Pacific,1,166327.0,0. Actual
+2024,Upstream Oil & Gas,Middle East,1,1322488.0,0. Actual
+2024,Upstream Oil & Gas,North America,1,1151321.0,0. Actual
+2024,Upstream Oil & Gas,UK & North Sea,1,1852262.0,0. Actual
+2025,Midstream & Refining,Asia Pacific,1,248893.0,0. Actual
+2025,Midstream & Refining,Asia Pacific,2,10689.0,0. Actual
+2025,Midstream & Refining,Continental Europe,1,2166751.0,0. Actual
+2025,Midstream & Refining,Continental Europe,2,325543.0,0. Actual
+2025,Midstream & Refining,Middle East,1,281053.0,0. Actual
+2025,Midstream & Refining,Middle East,2,12758.0,0. Actual
+2025,Midstream & Refining,North America,1,3113839.0,0. Actual
+2025,Midstream & Refining,North America,2,460359.0,0. Actual
+2025,Midstream & Refining,UK & North Sea,1,406842.0,0. Actual
+2025,Midstream & Refining,UK & North Sea,2,16142.0,0. Actual
+2025,Networks & Corporate,Asia Pacific,1,91355.0,0. Actual
+2025,Networks & Corporate,Asia Pacific,2,64542.0,0. Actual
+2025,Networks & Corporate,Continental Europe,1,113094.0,0. Actual
+2025,Networks & Corporate,Continental Europe,2,138538.0,0. Actual
+2025,Networks & Corporate,Middle East,1,121838.0,0. Actual
+2025,Networks & Corporate,Middle East,2,74035.0,0. Actual
+2025,Networks & Corporate,North America,1,119757.0,0. Actual
+2025,Networks & Corporate,North America,2,94396.0,0. Actual
+2025,Networks & Corporate,UK & North Sea,1,85572.0,0. Actual
+2025,Networks & Corporate,UK & North Sea,2,40670.0,0. Actual
+2025,Power Generation,Asia Pacific,1,3029210.0,0. Actual
+2025,Power Generation,Asia Pacific,2,30275.0,0. Actual
+2025,Power Generation,Continental Europe,1,6620348.0,0. Actual
+2025,Power Generation,Continental Europe,2,33097.0,0. Actual
+2025,Power Generation,North America,1,5562211.0,0. Actual
+2025,Power Generation,North America,2,10862.0,0. Actual
+2025,Power Generation,UK & North Sea,1,2378842.0,0. Actual
+2025,Power Generation,UK & North Sea,2,14474.0,0. Actual
+2025,Renewables & New Energy,Asia Pacific,1,13971.0,0. Actual
+2025,Renewables & New Energy,Asia Pacific,2,20925.0,0. Actual
+2025,Renewables & New Energy,Continental Europe,1,13176.0,0. Actual
+2025,Renewables & New Energy,Continental Europe,2,19678.0,0. Actual
+2025,Renewables & New Energy,Middle East,1,6920.0,0. Actual
+2025,Renewables & New Energy,Middle East,2,10368.0,0. Actual
+2025,Renewables & New Energy,North America,1,13180.0,0. Actual
+2025,Renewables & New Energy,North America,2,19852.0,0. Actual
+2025,Renewables & New Energy,UK & North Sea,1,20789.0,0. Actual
+2025,Renewables & New Energy,UK & North Sea,2,31177.0,0. Actual
+2025,Upstream Oil & Gas,Asia Pacific,1,143186.0,0. Actual
+2025,Upstream Oil & Gas,Middle East,1,1331628.0,0. Actual
+2025,Upstream Oil & Gas,North America,1,1135058.0,0. Actual
+2025,Upstream Oil & Gas,UK & North Sea,1,1791542.0,0. Actual
+2026,Midstream & Refining,Asia Pacific,1,245908.0,0. Actual
+2026,Midstream & Refining,Asia Pacific,2,10849.0,0. Actual
+2026,Midstream & Refining,Continental Europe,1,2114322.0,0. Actual
+2026,Midstream & Refining,Continental Europe,2,281042.0,0. Actual
+2026,Midstream & Refining,Middle East,1,263802.0,0. Actual
+2026,Midstream & Refining,Middle East,2,12631.0,0. Actual
+2026,Midstream & Refining,North America,1,2693510.0,0. Actual
+2026,Midstream & Refining,North America,2,457793.0,0. Actual
+2026,Midstream & Refining,UK & North Sea,1,410367.0,0. Actual
+2026,Midstream & Refining,UK & North Sea,2,16344.0,0. Actual
+2026,Networks & Corporate,Asia Pacific,1,92499.0,0. Actual
+2026,Networks & Corporate,Asia Pacific,2,63880.0,0. Actual
+2026,Networks & Corporate,Continental Europe,1,111932.0,0. Actual
+2026,Networks & Corporate,Continental Europe,2,135964.0,0. Actual
+2026,Networks & Corporate,Middle East,1,123160.0,0. Actual
+2026,Networks & Corporate,Middle East,2,74743.0,0. Actual
+2026,Networks & Corporate,North America,1,113737.0,0. Actual
+2026,Networks & Corporate,North America,2,94331.0,0. Actual
+2026,Networks & Corporate,UK & North Sea,1,85713.0,0. Actual
+2026,Networks & Corporate,UK & North Sea,2,31808.0,0. Actual
+2026,Power Generation,Asia Pacific,1,3051328.0,0. Actual
+2026,Power Generation,Asia Pacific,2,30858.0,0. Actual
+2026,Power Generation,Continental Europe,1,6306370.0,0. Actual
+2026,Power Generation,Continental Europe,2,29810.0,0. Actual
+2026,Power Generation,North America,1,5546631.0,0. Actual
+2026,Power Generation,North America,2,10930.0,0. Actual
+2026,Power Generation,UK & North Sea,1,977228.0,0. Actual
+2026,Power Generation,UK & North Sea,2,471.0,0. Actual
+2026,Renewables & New Energy,Asia Pacific,1,13927.0,0. Actual
+2026,Renewables & New Energy,Asia Pacific,2,20871.0,0. Actual
+2026,Renewables & New Energy,Continental Europe,1,13400.0,0. Actual
+2026,Renewables & New Energy,Continental Europe,2,20151.0,0. Actual
+2026,Renewables & New Energy,Middle East,1,6927.0,0. Actual
+2026,Renewables & New Energy,Middle East,2,10335.0,0. Actual
+2026,Renewables & New Energy,North America,1,13271.0,0. Actual
+2026,Renewables & New Energy,North America,2,19977.0,0. Actual
+2026,Renewables & New Energy,UK & North Sea,1,20385.0,0. Actual
+2026,Renewables & New Energy,UK & North Sea,2,30494.0,0. Actual
+2026,Upstream Oil & Gas,Asia Pacific,1,88276.0,0. Actual
+2026,Upstream Oil & Gas,Middle East,1,1316318.0,0. Actual
+2026,Upstream Oil & Gas,North America,1,1138468.0,0. Actual
+2026,Upstream Oil & Gas,UK & North Sea,1,1784260.0,0. Actual
+2027,Midstream & Refining,Asia Pacific,1,250385.0,1. Business as usual
+2027,Midstream & Refining,Asia Pacific,2,10602.0,1. Business as usual
+2027,Midstream & Refining,Continental Europe,1,2204229.0,1. Business as usual
+2027,Midstream & Refining,Continental Europe,2,402350.0,1. Business as usual
+2027,Midstream & Refining,Middle East,1,316845.0,1. Business as usual
+2027,Midstream & Refining,Middle East,2,12922.0,1. Business as usual
+2027,Midstream & Refining,North America,1,3214286.0,1. Business as usual
+2027,Midstream & Refining,North America,2,465972.0,1. Business as usual
+2027,Midstream & Refining,UK & North Sea,1,409998.0,1. Business as usual
+2027,Midstream & Refining,UK & North Sea,2,16246.0,1. Business as usual
+2027,Networks & Corporate,Asia Pacific,1,91114.0,1. Business as usual
+2027,Networks & Corporate,Asia Pacific,2,74082.0,1. Business as usual
+2027,Networks & Corporate,Continental Europe,1,112468.0,1. Business as usual
+2027,Networks & Corporate,Continental Europe,2,136326.0,1. Business as usual
+2027,Networks & Corporate,Middle East,1,124048.0,1. Business as usual
+2027,Networks & Corporate,Middle East,2,118973.0,1. Business as usual
+2027,Networks & Corporate,North America,1,120813.0,1. Business as usual
+2027,Networks & Corporate,North America,2,94938.0,1. Business as usual
+2027,Networks & Corporate,UK & North Sea,1,86443.0,1. Business as usual
+2027,Networks & Corporate,UK & North Sea,2,77343.0,1. Business as usual
+2027,Power Generation,Asia Pacific,1,3030709.0,1. Business as usual
+2027,Power Generation,Asia Pacific,2,30675.0,1. Business as usual
+2027,Power Generation,Continental Europe,1,6744672.0,1. Business as usual
+2027,Power Generation,Continental Europe,2,34005.0,1. Business as usual
+2027,Power Generation,North America,1,5672460.0,1. Business as usual
+2027,Power Generation,North America,2,11159.0,1. Business as usual
+2027,Power Generation,UK & North Sea,1,2459816.0,1. Business as usual
+2027,Power Generation,UK & North Sea,2,15126.0,1. Business as usual
+2027,Renewables & New Energy,Asia Pacific,1,13568.0,1. Business as usual
+2027,Renewables & New Energy,Asia Pacific,2,20521.0,1. Business as usual
+2027,Renewables & New Energy,Continental Europe,1,13243.0,1. Business as usual
+2027,Renewables & New Energy,Continental Europe,2,19790.0,1. Business as usual
+2027,Renewables & New Energy,Middle East,1,7030.0,1. Business as usual
+2027,Renewables & New Energy,Middle East,2,10504.0,1. Business as usual
+2027,Renewables & New Energy,North America,1,13411.0,1. Business as usual
+2027,Renewables & New Energy,North America,2,20060.0,1. Business as usual
+2027,Renewables & New Energy,UK & North Sea,1,20311.0,1. Business as usual
+2027,Renewables & New Energy,UK & North Sea,2,30582.0,1. Business as usual
+2027,Upstream Oil & Gas,Asia Pacific,1,169348.0,1. Business as usual
+2027,Upstream Oil & Gas,Middle East,1,1348313.0,1. Business as usual
+2027,Upstream Oil & Gas,North America,1,1168978.0,1. Business as usual
+2027,Upstream Oil & Gas,UK & North Sea,1,1875364.0,1. Business as usual
+2028,Midstream & Refining,Asia Pacific,1,251173.0,1. Business as usual
+2028,Midstream & Refining,Asia Pacific,2,10654.0,1. Business as usual
+2028,Midstream & Refining,Continental Europe,1,2196127.0,1. Business as usual
+2028,Midstream & Refining,Continental Europe,2,400474.0,1. Business as usual
+2028,Midstream & Refining,Middle East,1,315696.0,1. Business as usual
+2028,Midstream & Refining,Middle East,2,12827.0,1. Business as usual
+2028,Midstream & Refining,North America,1,3258730.0,1. Business as usual
+2028,Midstream & Refining,North America,2,468170.0,1. Business as usual
+2028,Midstream & Refining,UK & North Sea,1,409101.0,1. Business as usual
+2028,Midstream & Refining,UK & North Sea,2,16172.0,1. Business as usual
+2028,Networks & Corporate,Asia Pacific,1,91390.0,1. Business as usual
+2028,Networks & Corporate,Asia Pacific,2,74340.0,1. Business as usual
+2028,Networks & Corporate,Continental Europe,1,112857.0,1. Business as usual
+2028,Networks & Corporate,Continental Europe,2,137155.0,1. Business as usual
+2028,Networks & Corporate,Middle East,1,125183.0,1. Business as usual
+2028,Networks & Corporate,Middle East,2,119494.0,1. Business as usual
+2028,Networks & Corporate,North America,1,120277.0,1. Business as usual
+2028,Networks & Corporate,North America,2,95159.0,1. Business as usual
+2028,Networks & Corporate,UK & North Sea,1,87092.0,1. Business as usual
+2028,Networks & Corporate,UK & North Sea,2,77585.0,1. Business as usual
+2028,Power Generation,Asia Pacific,1,3070627.0,1. Business as usual
+2028,Power Generation,Asia Pacific,2,31180.0,1. Business as usual
+2028,Power Generation,Continental Europe,1,6759068.0,1. Business as usual
+2028,Power Generation,Continental Europe,2,34211.0,1. Business as usual
+2028,Power Generation,North America,1,5696646.0,1. Business as usual
+2028,Power Generation,North America,2,11198.0,1. Business as usual
+2028,Power Generation,UK & North Sea,1,2496251.0,1. Business as usual
+2028,Power Generation,UK & North Sea,2,15361.0,1. Business as usual
+2028,Renewables & New Energy,Asia Pacific,1,13981.0,1. Business as usual
+2028,Renewables & New Energy,Asia Pacific,2,21009.0,1. Business as usual
+2028,Renewables & New Energy,Continental Europe,1,13487.0,1. Business as usual
+2028,Renewables & New Energy,Continental Europe,2,20222.0,1. Business as usual
+2028,Renewables & New Energy,Middle East,1,7006.0,1. Business as usual
+2028,Renewables & New Energy,Middle East,2,10397.0,1. Business as usual
+2028,Renewables & New Energy,North America,1,13374.0,1. Business as usual
+2028,Renewables & New Energy,North America,2,20085.0,1. Business as usual
+2028,Renewables & New Energy,UK & North Sea,1,20505.0,1. Business as usual
+2028,Renewables & New Energy,UK & North Sea,2,30684.0,1. Business as usual
+2028,Upstream Oil & Gas,Asia Pacific,1,166905.0,1. Business as usual
+2028,Upstream Oil & Gas,Middle East,1,1346888.0,1. Business as usual
+2028,Upstream Oil & Gas,North America,1,1172890.0,1. Business as usual
+2028,Upstream Oil & Gas,UK & North Sea,1,1877822.0,1. Business as usual
+2029,Midstream & Refining,Asia Pacific,1,255841.0,1. Business as usual
+2029,Midstream & Refining,Asia Pacific,2,10837.0,1. Business as usual
+2029,Midstream & Refining,Continental Europe,1,2204882.0,1. Business as usual
+2029,Midstream & Refining,Continental Europe,2,399117.0,1. Business as usual
+2029,Midstream & Refining,Middle East,1,313131.0,1. Business as usual
+2029,Midstream & Refining,Middle East,2,12783.0,1. Business as usual
+2029,Midstream & Refining,North America,1,3254332.0,1. Business as usual
+2029,Midstream & Refining,North America,2,463821.0,1. Business as usual
+2029,Midstream & Refining,UK & North Sea,1,413813.0,1. Business as usual
+2029,Midstream & Refining,UK & North Sea,2,16454.0,1. Business as usual
+2029,Networks & Corporate,Asia Pacific,1,92512.0,1. Business as usual
+2029,Networks & Corporate,Asia Pacific,2,74832.0,1. Business as usual
+2029,Networks & Corporate,Continental Europe,1,114633.0,1. Business as usual
+2029,Networks & Corporate,Continental Europe,2,140678.0,1. Business as usual
+2029,Networks & Corporate,Middle East,1,124919.0,1. Business as usual
+2029,Networks & Corporate,Middle East,2,118134.0,1. Business as usual
+2029,Networks & Corporate,North America,1,122368.0,1. Business as usual
+2029,Networks & Corporate,North America,2,96344.0,1. Business as usual
+2029,Networks & Corporate,UK & North Sea,1,87576.0,1. Business as usual
+2029,Networks & Corporate,UK & North Sea,2,78450.0,1. Business as usual
+2029,Power Generation,Asia Pacific,1,3159044.0,1. Business as usual
+2029,Power Generation,Asia Pacific,2,31961.0,1. Business as usual
+2029,Power Generation,Continental Europe,1,6888721.0,1. Business as usual
+2029,Power Generation,Continental Europe,2,34555.0,1. Business as usual
+2029,Power Generation,North America,1,5714718.0,1. Business as usual
+2029,Power Generation,North America,2,11155.0,1. Business as usual
+2029,Power Generation,UK & North Sea,1,2517328.0,1. Business as usual
+2029,Power Generation,UK & North Sea,2,15502.0,1. Business as usual
+2029,Renewables & New Energy,Asia Pacific,1,14024.0,1. Business as usual
+2029,Renewables & New Energy,Asia Pacific,2,21157.0,1. Business as usual
+2029,Renewables & New Energy,Continental Europe,1,13244.0,1. Business as usual
+2029,Renewables & New Energy,Continental Europe,2,19896.0,1. Business as usual
+2029,Renewables & New Energy,Middle East,1,6917.0,1. Business as usual
+2029,Renewables & New Energy,Middle East,2,10387.0,1. Business as usual
+2029,Renewables & New Energy,North America,1,13357.0,1. Business as usual
+2029,Renewables & New Energy,North America,2,20060.0,1. Business as usual
+2029,Renewables & New Energy,UK & North Sea,1,20567.0,1. Business as usual
+2029,Renewables & New Energy,UK & North Sea,2,30908.0,1. Business as usual
+2029,Upstream Oil & Gas,Asia Pacific,1,171015.0,1. Business as usual
+2029,Upstream Oil & Gas,Middle East,1,1351063.0,1. Business as usual
+2029,Upstream Oil & Gas,North America,1,1183671.0,1. Business as usual
+2029,Upstream Oil & Gas,UK & North Sea,1,1889568.0,1. Business as usual
+2030,Midstream & Refining,Asia Pacific,1,255914.0,1. Business as usual
+2030,Midstream & Refining,Asia Pacific,2,10898.0,1. Business as usual
+2030,Midstream & Refining,Continental Europe,1,2221144.0,1. Business as usual
+2030,Midstream & Refining,Continental Europe,2,409084.0,1. Business as usual
+2030,Midstream & Refining,Middle East,1,320310.0,1. Business as usual
+2030,Midstream & Refining,Middle East,2,13042.0,1. Business as usual
+2030,Midstream & Refining,North America,1,3235429.0,1. Business as usual
+2030,Midstream & Refining,North America,2,460159.0,1. Business as usual
+2030,Midstream & Refining,UK & North Sea,1,416947.0,1. Business as usual
+2030,Midstream & Refining,UK & North Sea,2,16564.0,1. Business as usual
+2030,Networks & Corporate,Asia Pacific,1,92781.0,1. Business as usual
+2030,Networks & Corporate,Asia Pacific,2,75334.0,1. Business as usual
+2030,Networks & Corporate,Continental Europe,1,116112.0,1. Business as usual
+2030,Networks & Corporate,Continental Europe,2,141699.0,1. Business as usual
+2030,Networks & Corporate,Middle East,1,127132.0,1. Business as usual
+2030,Networks & Corporate,Middle East,2,120407.0,1. Business as usual
+2030,Networks & Corporate,North America,1,122774.0,1. Business as usual
+2030,Networks & Corporate,North America,2,95960.0,1. Business as usual
+2030,Networks & Corporate,UK & North Sea,1,88173.0,1. Business as usual
+2030,Networks & Corporate,UK & North Sea,2,77921.0,1. Business as usual
+2030,Power Generation,Asia Pacific,1,3130039.0,1. Business as usual
+2030,Power Generation,Asia Pacific,2,31955.0,1. Business as usual
+2030,Power Generation,Continental Europe,1,6932003.0,1. Business as usual
+2030,Power Generation,Continental Europe,2,35372.0,1. Business as usual
+2030,Power Generation,North America,1,5728307.0,1. Business as usual
+2030,Power Generation,North America,2,11161.0,1. Business as usual
+2030,Power Generation,UK & North Sea,1,2521978.0,1. Business as usual
+2030,Power Generation,UK & North Sea,2,15446.0,1. Business as usual
+2030,Renewables & New Energy,Asia Pacific,1,13739.0,1. Business as usual
+2030,Renewables & New Energy,Asia Pacific,2,20672.0,1. Business as usual
+2030,Renewables & New Energy,Continental Europe,1,13459.0,1. Business as usual
+2030,Renewables & New Energy,Continental Europe,2,20044.0,1. Business as usual
+2030,Renewables & New Energy,Middle East,1,7072.0,1. Business as usual
+2030,Renewables & New Energy,Middle East,2,10585.0,1. Business as usual
+2030,Renewables & New Energy,North America,1,13112.0,1. Business as usual
+2030,Renewables & New Energy,North America,2,19717.0,1. Business as usual
+2030,Renewables & New Energy,UK & North Sea,1,20399.0,1. Business as usual
+2030,Renewables & New Energy,UK & North Sea,2,30604.0,1. Business as usual
+2030,Upstream Oil & Gas,Asia Pacific,1,171024.0,1. Business as usual
+2030,Upstream Oil & Gas,Middle East,1,1368471.0,1. Business as usual
+2030,Upstream Oil & Gas,North America,1,1189085.0,1. Business as usual
+2030,Upstream Oil & Gas,UK & North Sea,1,1902914.0,1. Business as usual
+2027,Midstream & Refining,Asia Pacific,1,228126.0,2. Committed plan
+2027,Midstream & Refining,Asia Pacific,2,10602.0,2. Committed plan
+2027,Midstream & Refining,Continental Europe,1,2086800.0,2. Committed plan
+2027,Midstream & Refining,Continental Europe,2,279276.0,2. Committed plan
+2027,Midstream & Refining,Middle East,1,267767.0,2. Committed plan
+2027,Midstream & Refining,Middle East,2,12922.0,2. Committed plan
+2027,Midstream & Refining,North America,1,2584732.0,2. Committed plan
+2027,Midstream & Refining,North America,2,452170.0,2. Committed plan
+2027,Midstream & Refining,UK & North Sea,1,403546.0,2. Committed plan
+2027,Midstream & Refining,UK & North Sea,2,16246.0,2. Committed plan
+2027,Networks & Corporate,Asia Pacific,1,91114.0,2. Committed plan
+2027,Networks & Corporate,Asia Pacific,2,57435.0,2. Committed plan
+2027,Networks & Corporate,Continental Europe,1,112468.0,2. Committed plan
+2027,Networks & Corporate,Continental Europe,2,101657.0,2. Committed plan
+2027,Networks & Corporate,Middle East,1,124048.0,2. Committed plan
+2027,Networks & Corporate,Middle East,2,74860.0,2. Committed plan
+2027,Networks & Corporate,North America,1,100094.0,2. Committed plan
+2027,Networks & Corporate,North America,2,94938.0,2. Committed plan
+2027,Networks & Corporate,UK & North Sea,1,83756.0,2. Committed plan
+2027,Networks & Corporate,UK & North Sea,2,29118.0,2. Committed plan
+2027,Power Generation,Asia Pacific,1,2797963.0,2. Committed plan
+2027,Power Generation,Asia Pacific,2,30675.0,2. Committed plan
+2027,Power Generation,Continental Europe,1,4948621.0,2. Committed plan
+2027,Power Generation,Continental Europe,2,18767.0,2. Committed plan
+2027,Power Generation,North America,1,5577801.0,2. Committed plan
+2027,Power Generation,North America,2,11159.0,2. Committed plan
+2027,Power Generation,UK & North Sea,1,930373.0,2. Committed plan
+2027,Power Generation,UK & North Sea,2,0.0,2. Committed plan
+2027,Renewables & New Energy,Asia Pacific,1,13568.0,2. Committed plan
+2027,Renewables & New Energy,Asia Pacific,2,20521.0,2. Committed plan
+2027,Renewables & New Energy,Continental Europe,1,13243.0,2. Committed plan
+2027,Renewables & New Energy,Continental Europe,2,19790.0,2. Committed plan
+2027,Renewables & New Energy,Middle East,1,7030.0,2. Committed plan
+2027,Renewables & New Energy,Middle East,2,10504.0,2. Committed plan
+2027,Renewables & New Energy,North America,1,13411.0,2. Committed plan
+2027,Renewables & New Energy,North America,2,20060.0,2. Committed plan
+2027,Renewables & New Energy,UK & North Sea,1,20311.0,2. Committed plan
+2027,Renewables & New Energy,UK & North Sea,2,30582.0,2. Committed plan
+2027,Upstream Oil & Gas,Asia Pacific,1,88599.0,2. Committed plan
+2027,Upstream Oil & Gas,Middle East,1,1298159.0,2. Committed plan
+2027,Upstream Oil & Gas,North America,1,1102930.0,2. Committed plan
+2027,Upstream Oil & Gas,UK & North Sea,1,1745389.0,2. Committed plan
+2028,Midstream & Refining,Asia Pacific,1,217008.0,2. Committed plan
+2028,Midstream & Refining,Asia Pacific,2,10654.0,2. Committed plan
+2028,Midstream & Refining,Continental Europe,1,2073364.0,2. Committed plan
+2028,Midstream & Refining,Continental Europe,2,277725.0,2. Committed plan
+2028,Midstream & Refining,Middle East,1,266049.0,2. Committed plan
+2028,Midstream & Refining,Middle East,2,12827.0,2. Committed plan
+2028,Midstream & Refining,North America,1,2479726.0,2. Committed plan
+2028,Midstream & Refining,North America,2,450722.0,2. Committed plan
+2028,Midstream & Refining,UK & North Sea,1,382696.0,2. Committed plan
+2028,Midstream & Refining,UK & North Sea,2,16172.0,2. Committed plan
+2028,Networks & Corporate,Asia Pacific,1,91390.0,2. Committed plan
+2028,Networks & Corporate,Asia Pacific,2,52112.0,2. Committed plan
+2028,Networks & Corporate,Continental Europe,1,112857.0,2. Committed plan
+2028,Networks & Corporate,Continental Europe,2,45880.0,2. Committed plan
+2028,Networks & Corporate,Middle East,1,125183.0,2. Committed plan
+2028,Networks & Corporate,Middle East,2,58516.0,2. Committed plan
+2028,Networks & Corporate,North America,1,96980.0,2. Committed plan
+2028,Networks & Corporate,North America,2,83270.0,2. Committed plan
+2028,Networks & Corporate,UK & North Sea,1,80664.0,2. Committed plan
+2028,Networks & Corporate,UK & North Sea,2,29272.0,2. Committed plan
+2028,Power Generation,Asia Pacific,1,2707417.0,2. Committed plan
+2028,Power Generation,Asia Pacific,2,30746.0,2. Committed plan
+2028,Power Generation,Continental Europe,1,3904633.0,2. Committed plan
+2028,Power Generation,Continental Europe,2,9843.0,2. Committed plan
+2028,Power Generation,North America,1,4889456.0,2. Committed plan
+2028,Power Generation,North America,2,11198.0,2. Committed plan
+2028,Power Generation,UK & North Sea,1,958382.0,2. Committed plan
+2028,Power Generation,UK & North Sea,2,0.0,2. Committed plan
+2028,Renewables & New Energy,Asia Pacific,1,13981.0,2. Committed plan
+2028,Renewables & New Energy,Asia Pacific,2,21009.0,2. Committed plan
+2028,Renewables & New Energy,Continental Europe,1,13487.0,2. Committed plan
+2028,Renewables & New Energy,Continental Europe,2,20222.0,2. Committed plan
+2028,Renewables & New Energy,Middle East,1,7006.0,2. Committed plan
+2028,Renewables & New Energy,Middle East,2,10397.0,2. Committed plan
+2028,Renewables & New Energy,North America,1,13374.0,2. Committed plan
+2028,Renewables & New Energy,North America,2,20085.0,2. Committed plan
+2028,Renewables & New Energy,UK & North Sea,1,20505.0,2. Committed plan
+2028,Renewables & New Energy,UK & North Sea,2,30684.0,2. Committed plan
+2028,Upstream Oil & Gas,Asia Pacific,1,87856.0,2. Committed plan
+2028,Upstream Oil & Gas,Middle East,1,1225197.0,2. Committed plan
+2028,Upstream Oil & Gas,North America,1,1009046.0,2. Committed plan
+2028,Upstream Oil & Gas,UK & North Sea,1,1692488.0,2. Committed plan
+2029,Midstream & Refining,Asia Pacific,1,221833.0,2. Committed plan
+2029,Midstream & Refining,Asia Pacific,2,10837.0,2. Committed plan
+2029,Midstream & Refining,Continental Europe,1,2028391.0,2. Committed plan
+2029,Midstream & Refining,Continental Europe,2,276330.0,2. Committed plan
+2029,Midstream & Refining,Middle East,1,261310.0,2. Committed plan
+2029,Midstream & Refining,Middle East,2,12783.0,2. Committed plan
+2029,Midstream & Refining,North America,1,2215796.0,2. Committed plan
+2029,Midstream & Refining,North America,2,442039.0,2. Committed plan
+2029,Midstream & Refining,UK & North Sea,1,354005.0,2. Committed plan
+2029,Midstream & Refining,UK & North Sea,2,16454.0,2. Committed plan
+2029,Networks & Corporate,Asia Pacific,1,92512.0,2. Committed plan
+2029,Networks & Corporate,Asia Pacific,2,52253.0,2. Committed plan
+2029,Networks & Corporate,Continental Europe,1,114633.0,2. Committed plan
+2029,Networks & Corporate,Continental Europe,2,30017.0,2. Committed plan
+2029,Networks & Corporate,Middle East,1,124919.0,2. Committed plan
+2029,Networks & Corporate,Middle East,2,54799.0,2. Committed plan
+2029,Networks & Corporate,North America,1,91570.0,2. Committed plan
+2029,Networks & Corporate,North America,2,69892.0,2. Committed plan
+2029,Networks & Corporate,UK & North Sea,1,81086.0,2. Committed plan
+2029,Networks & Corporate,UK & North Sea,2,29171.0,2. Committed plan
+2029,Power Generation,Asia Pacific,1,1419432.0,2. Committed plan
+2029,Power Generation,Asia Pacific,2,17617.0,2. Committed plan
+2029,Power Generation,Continental Europe,1,2975207.0,2. Committed plan
+2029,Power Generation,Continental Europe,2,0.0,2. Committed plan
+2029,Power Generation,North America,1,4731505.0,2. Committed plan
+2029,Power Generation,North America,2,11155.0,2. Committed plan
+2029,Power Generation,UK & North Sea,1,961849.0,2. Committed plan
+2029,Power Generation,UK & North Sea,2,0.0,2. Committed plan
+2029,Renewables & New Energy,Asia Pacific,1,14024.0,2. Committed plan
+2029,Renewables & New Energy,Asia Pacific,2,21157.0,2. Committed plan
+2029,Renewables & New Energy,Continental Europe,1,13244.0,2. Committed plan
+2029,Renewables & New Energy,Continental Europe,2,19896.0,2. Committed plan
+2029,Renewables & New Energy,Middle East,1,6917.0,2. Committed plan
+2029,Renewables & New Energy,Middle East,2,10387.0,2. Committed plan
+2029,Renewables & New Energy,North America,1,13357.0,2. Committed plan
+2029,Renewables & New Energy,North America,2,20060.0,2. Committed plan
+2029,Renewables & New Energy,UK & North Sea,1,20567.0,2. Committed plan
+2029,Renewables & New Energy,UK & North Sea,2,30908.0,2. Committed plan
+2029,Upstream Oil & Gas,Asia Pacific,1,89891.0,2. Committed plan
+2029,Upstream Oil & Gas,Middle East,1,1206460.0,2. Committed plan
+2029,Upstream Oil & Gas,North America,1,990855.0,2. Committed plan
+2029,Upstream Oil & Gas,UK & North Sea,1,1687450.0,2. Committed plan
+2030,Midstream & Refining,Asia Pacific,1,221986.0,2. Committed plan
+2030,Midstream & Refining,Asia Pacific,2,10898.0,2. Committed plan
+2030,Midstream & Refining,Continental Europe,1,2013608.0,2. Committed plan
+2030,Midstream & Refining,Continental Europe,2,284978.0,2. Committed plan
+2030,Midstream & Refining,Middle East,1,268020.0,2. Committed plan
+2030,Midstream & Refining,Middle East,2,13042.0,2. Committed plan
+2030,Midstream & Refining,North America,1,2184930.0,2. Committed plan
+2030,Midstream & Refining,North America,2,438230.0,2. Committed plan
+2030,Midstream & Refining,UK & North Sea,1,332299.0,2. Committed plan
+2030,Midstream & Refining,UK & North Sea,2,16564.0,2. Committed plan
+2030,Networks & Corporate,Asia Pacific,1,92781.0,2. Committed plan
+2030,Networks & Corporate,Asia Pacific,2,52523.0,2. Committed plan
+2030,Networks & Corporate,Continental Europe,1,116112.0,2. Committed plan
+2030,Networks & Corporate,Continental Europe,2,19176.0,2. Committed plan
+2030,Networks & Corporate,Middle East,1,127132.0,2. Committed plan
+2030,Networks & Corporate,Middle East,2,55891.0,2. Committed plan
+2030,Networks & Corporate,North America,1,92073.0,2. Committed plan
+2030,Networks & Corporate,North America,2,65639.0,2. Committed plan
+2030,Networks & Corporate,UK & North Sea,1,81709.0,2. Committed plan
+2030,Networks & Corporate,UK & North Sea,2,29309.0,2. Committed plan
+2030,Power Generation,Asia Pacific,1,1319918.0,2. Committed plan
+2030,Power Generation,Asia Pacific,2,16884.0,2. Committed plan
+2030,Power Generation,Continental Europe,1,3005310.0,2. Committed plan
+2030,Power Generation,Continental Europe,2,0.0,2. Committed plan
+2030,Power Generation,North America,1,4735229.0,2. Committed plan
+2030,Power Generation,North America,2,11161.0,2. Committed plan
+2030,Power Generation,UK & North Sea,1,974841.0,2. Committed plan
+2030,Power Generation,UK & North Sea,2,0.0,2. Committed plan
+2030,Renewables & New Energy,Asia Pacific,1,13739.0,2. Committed plan
+2030,Renewables & New Energy,Asia Pacific,2,20672.0,2. Committed plan
+2030,Renewables & New Energy,Continental Europe,1,13459.0,2. Committed plan
+2030,Renewables & New Energy,Continental Europe,2,20044.0,2. Committed plan
+2030,Renewables & New Energy,Middle East,1,7072.0,2. Committed plan
+2030,Renewables & New Energy,Middle East,2,10585.0,2. Committed plan
+2030,Renewables & New Energy,North America,1,13112.0,2. Committed plan
+2030,Renewables & New Energy,North America,2,19717.0,2. Committed plan
+2030,Renewables & New Energy,UK & North Sea,1,20399.0,2. Committed plan
+2030,Renewables & New Energy,UK & North Sea,2,30604.0,2. Committed plan
+2030,Upstream Oil & Gas,Asia Pacific,1,89372.0,2. Committed plan
+2030,Upstream Oil & Gas,Middle East,1,1222995.0,2. Committed plan
+2030,Upstream Oil & Gas,North America,1,979802.0,2. Committed plan
+2030,Upstream Oil & Gas,UK & North Sea,1,1699427.0,2. Committed plan
+2027,Midstream & Refining,Asia Pacific,1,228126.0,3. Accelerated (all options)
+2027,Midstream & Refining,Asia Pacific,2,10602.0,3. Accelerated (all options)
+2027,Midstream & Refining,Continental Europe,1,2086800.0,3. Accelerated (all options)
+2027,Midstream & Refining,Continental Europe,2,279276.0,3. Accelerated (all options)
+2027,Midstream & Refining,Middle East,1,267767.0,3. Accelerated (all options)
+2027,Midstream & Refining,Middle East,2,12922.0,3. Accelerated (all options)
+2027,Midstream & Refining,North America,1,2584732.0,3. Accelerated (all options)
+2027,Midstream & Refining,North America,2,452170.0,3. Accelerated (all options)
+2027,Midstream & Refining,UK & North Sea,1,403546.0,3. Accelerated (all options)
+2027,Midstream & Refining,UK & North Sea,2,16246.0,3. Accelerated (all options)
+2027,Networks & Corporate,Asia Pacific,1,91114.0,3. Accelerated (all options)
+2027,Networks & Corporate,Asia Pacific,2,57435.0,3. Accelerated (all options)
+2027,Networks & Corporate,Continental Europe,1,112468.0,3. Accelerated (all options)
+2027,Networks & Corporate,Continental Europe,2,101657.0,3. Accelerated (all options)
+2027,Networks & Corporate,Middle East,1,124048.0,3. Accelerated (all options)
+2027,Networks & Corporate,Middle East,2,74860.0,3. Accelerated (all options)
+2027,Networks & Corporate,North America,1,100094.0,3. Accelerated (all options)
+2027,Networks & Corporate,North America,2,94938.0,3. Accelerated (all options)
+2027,Networks & Corporate,UK & North Sea,1,83756.0,3. Accelerated (all options)
+2027,Networks & Corporate,UK & North Sea,2,29118.0,3. Accelerated (all options)
+2027,Power Generation,Asia Pacific,1,2797963.0,3. Accelerated (all options)
+2027,Power Generation,Asia Pacific,2,30675.0,3. Accelerated (all options)
+2027,Power Generation,Continental Europe,1,4948621.0,3. Accelerated (all options)
+2027,Power Generation,Continental Europe,2,18767.0,3. Accelerated (all options)
+2027,Power Generation,North America,1,5577801.0,3. Accelerated (all options)
+2027,Power Generation,North America,2,11159.0,3. Accelerated (all options)
+2027,Power Generation,UK & North Sea,1,930373.0,3. Accelerated (all options)
+2027,Power Generation,UK & North Sea,2,0.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Asia Pacific,1,13568.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Asia Pacific,2,20521.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Continental Europe,1,13243.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Continental Europe,2,19790.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Middle East,1,7030.0,3. Accelerated (all options)
+2027,Renewables & New Energy,Middle East,2,10504.0,3. Accelerated (all options)
+2027,Renewables & New Energy,North America,1,13411.0,3. Accelerated (all options)
+2027,Renewables & New Energy,North America,2,20060.0,3. Accelerated (all options)
+2027,Renewables & New Energy,UK & North Sea,1,20311.0,3. Accelerated (all options)
+2027,Renewables & New Energy,UK & North Sea,2,30582.0,3. Accelerated (all options)
+2027,Upstream Oil & Gas,Asia Pacific,1,88599.0,3. Accelerated (all options)
+2027,Upstream Oil & Gas,Middle East,1,1298159.0,3. Accelerated (all options)
+2027,Upstream Oil & Gas,North America,1,1102930.0,3. Accelerated (all options)
+2027,Upstream Oil & Gas,UK & North Sea,1,1745389.0,3. Accelerated (all options)
+2028,Midstream & Refining,Asia Pacific,1,217008.0,3. Accelerated (all options)
+2028,Midstream & Refining,Asia Pacific,2,10654.0,3. Accelerated (all options)
+2028,Midstream & Refining,Continental Europe,1,2070314.0,3. Accelerated (all options)
+2028,Midstream & Refining,Continental Europe,2,277725.0,3. Accelerated (all options)
+2028,Midstream & Refining,Middle East,1,266049.0,3. Accelerated (all options)
+2028,Midstream & Refining,Middle East,2,12827.0,3. Accelerated (all options)
+2028,Midstream & Refining,North America,1,2478944.0,3. Accelerated (all options)
+2028,Midstream & Refining,North America,2,389091.0,3. Accelerated (all options)
+2028,Midstream & Refining,UK & North Sea,1,382696.0,3. Accelerated (all options)
+2028,Midstream & Refining,UK & North Sea,2,16172.0,3. Accelerated (all options)
+2028,Networks & Corporate,Asia Pacific,1,91390.0,3. Accelerated (all options)
+2028,Networks & Corporate,Asia Pacific,2,52112.0,3. Accelerated (all options)
+2028,Networks & Corporate,Continental Europe,1,112857.0,3. Accelerated (all options)
+2028,Networks & Corporate,Continental Europe,2,45880.0,3. Accelerated (all options)
+2028,Networks & Corporate,Middle East,1,125183.0,3. Accelerated (all options)
+2028,Networks & Corporate,Middle East,2,58516.0,3. Accelerated (all options)
+2028,Networks & Corporate,North America,1,96980.0,3. Accelerated (all options)
+2028,Networks & Corporate,North America,2,83270.0,3. Accelerated (all options)
+2028,Networks & Corporate,UK & North Sea,1,80664.0,3. Accelerated (all options)
+2028,Networks & Corporate,UK & North Sea,2,29272.0,3. Accelerated (all options)
+2028,Power Generation,Asia Pacific,1,2707417.0,3. Accelerated (all options)
+2028,Power Generation,Asia Pacific,2,30746.0,3. Accelerated (all options)
+2028,Power Generation,Continental Europe,1,3900786.0,3. Accelerated (all options)
+2028,Power Generation,Continental Europe,2,9843.0,3. Accelerated (all options)
+2028,Power Generation,North America,1,4889456.0,3. Accelerated (all options)
+2028,Power Generation,North America,2,11198.0,3. Accelerated (all options)
+2028,Power Generation,UK & North Sea,1,958382.0,3. Accelerated (all options)
+2028,Power Generation,UK & North Sea,2,0.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Asia Pacific,1,13981.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Asia Pacific,2,21009.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Continental Europe,1,13487.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Continental Europe,2,20222.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Middle East,1,7006.0,3. Accelerated (all options)
+2028,Renewables & New Energy,Middle East,2,10397.0,3. Accelerated (all options)
+2028,Renewables & New Energy,North America,1,13374.0,3. Accelerated (all options)
+2028,Renewables & New Energy,North America,2,20085.0,3. Accelerated (all options)
+2028,Renewables & New Energy,UK & North Sea,1,20505.0,3. Accelerated (all options)
+2028,Renewables & New Energy,UK & North Sea,2,30684.0,3. Accelerated (all options)
+2028,Upstream Oil & Gas,Asia Pacific,1,87856.0,3. Accelerated (all options)
+2028,Upstream Oil & Gas,Middle East,1,1225197.0,3. Accelerated (all options)
+2028,Upstream Oil & Gas,North America,1,1009046.0,3. Accelerated (all options)
+2028,Upstream Oil & Gas,UK & North Sea,1,1691674.0,3. Accelerated (all options)
+2029,Midstream & Refining,Asia Pacific,1,221833.0,3. Accelerated (all options)
+2029,Midstream & Refining,Asia Pacific,2,10837.0,3. Accelerated (all options)
+2029,Midstream & Refining,Continental Europe,1,1924222.0,3. Accelerated (all options)
+2029,Midstream & Refining,Continental Europe,2,276330.0,3. Accelerated (all options)
+2029,Midstream & Refining,Middle East,1,261310.0,3. Accelerated (all options)
+2029,Midstream & Refining,Middle East,2,12783.0,3. Accelerated (all options)
+2029,Midstream & Refining,North America,1,2201879.0,3. Accelerated (all options)
+2029,Midstream & Refining,North America,2,255325.0,3. Accelerated (all options)
+2029,Midstream & Refining,UK & North Sea,1,354005.0,3. Accelerated (all options)
+2029,Midstream & Refining,UK & North Sea,2,16454.0,3. Accelerated (all options)
+2029,Networks & Corporate,Asia Pacific,1,92512.0,3. Accelerated (all options)
+2029,Networks & Corporate,Asia Pacific,2,52253.0,3. Accelerated (all options)
+2029,Networks & Corporate,Continental Europe,1,114633.0,3. Accelerated (all options)
+2029,Networks & Corporate,Continental Europe,2,30017.0,3. Accelerated (all options)
+2029,Networks & Corporate,Middle East,1,124919.0,3. Accelerated (all options)
+2029,Networks & Corporate,Middle East,2,37620.0,3. Accelerated (all options)
+2029,Networks & Corporate,North America,1,91570.0,3. Accelerated (all options)
+2029,Networks & Corporate,North America,2,50410.0,3. Accelerated (all options)
+2029,Networks & Corporate,UK & North Sea,1,81086.0,3. Accelerated (all options)
+2029,Networks & Corporate,UK & North Sea,2,29171.0,3. Accelerated (all options)
+2029,Power Generation,Asia Pacific,1,1419432.0,3. Accelerated (all options)
+2029,Power Generation,Asia Pacific,2,17617.0,3. Accelerated (all options)
+2029,Power Generation,Continental Europe,1,2952781.0,3. Accelerated (all options)
+2029,Power Generation,Continental Europe,2,0.0,3. Accelerated (all options)
+2029,Power Generation,North America,1,4191082.0,3. Accelerated (all options)
+2029,Power Generation,North America,2,5711.0,3. Accelerated (all options)
+2029,Power Generation,UK & North Sea,1,961849.0,3. Accelerated (all options)
+2029,Power Generation,UK & North Sea,2,0.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Asia Pacific,1,14024.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Asia Pacific,2,21157.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Continental Europe,1,13244.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Continental Europe,2,19896.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Middle East,1,6917.0,3. Accelerated (all options)
+2029,Renewables & New Energy,Middle East,2,10387.0,3. Accelerated (all options)
+2029,Renewables & New Energy,North America,1,13357.0,3. Accelerated (all options)
+2029,Renewables & New Energy,North America,2,20060.0,3. Accelerated (all options)
+2029,Renewables & New Energy,UK & North Sea,1,20567.0,3. Accelerated (all options)
+2029,Renewables & New Energy,UK & North Sea,2,30908.0,3. Accelerated (all options)
+2029,Upstream Oil & Gas,Asia Pacific,1,89891.0,3. Accelerated (all options)
+2029,Upstream Oil & Gas,Middle East,1,1206460.0,3. Accelerated (all options)
+2029,Upstream Oil & Gas,North America,1,976706.0,3. Accelerated (all options)
+2029,Upstream Oil & Gas,UK & North Sea,1,1660617.0,3. Accelerated (all options)
+2030,Midstream & Refining,Asia Pacific,1,221986.0,3. Accelerated (all options)
+2030,Midstream & Refining,Asia Pacific,2,10898.0,3. Accelerated (all options)
+2030,Midstream & Refining,Continental Europe,1,1624618.0,3. Accelerated (all options)
+2030,Midstream & Refining,Continental Europe,2,284978.0,3. Accelerated (all options)
+2030,Midstream & Refining,Middle East,1,268020.0,3. Accelerated (all options)
+2030,Midstream & Refining,Middle East,2,13042.0,3. Accelerated (all options)
+2030,Midstream & Refining,North America,1,2166765.0,3. Accelerated (all options)
+2030,Midstream & Refining,North America,2,254964.0,3. Accelerated (all options)
+2030,Midstream & Refining,UK & North Sea,1,332299.0,3. Accelerated (all options)
+2030,Midstream & Refining,UK & North Sea,2,16564.0,3. Accelerated (all options)
+2030,Networks & Corporate,Asia Pacific,1,92781.0,3. Accelerated (all options)
+2030,Networks & Corporate,Asia Pacific,2,52523.0,3. Accelerated (all options)
+2030,Networks & Corporate,Continental Europe,1,116112.0,3. Accelerated (all options)
+2030,Networks & Corporate,Continental Europe,2,19176.0,3. Accelerated (all options)
+2030,Networks & Corporate,Middle East,1,127132.0,3. Accelerated (all options)
+2030,Networks & Corporate,Middle East,2,34986.0,3. Accelerated (all options)
+2030,Networks & Corporate,North America,1,92073.0,3. Accelerated (all options)
+2030,Networks & Corporate,North America,2,36794.0,3. Accelerated (all options)
+2030,Networks & Corporate,UK & North Sea,1,81709.0,3. Accelerated (all options)
+2030,Networks & Corporate,UK & North Sea,2,29309.0,3. Accelerated (all options)
+2030,Power Generation,Asia Pacific,1,1319918.0,3. Accelerated (all options)
+2030,Power Generation,Asia Pacific,2,16884.0,3. Accelerated (all options)
+2030,Power Generation,Continental Europe,1,2982485.0,3. Accelerated (all options)
+2030,Power Generation,Continental Europe,2,0.0,3. Accelerated (all options)
+2030,Power Generation,North America,1,3616798.0,3. Accelerated (all options)
+2030,Power Generation,North America,2,0.0,3. Accelerated (all options)
+2030,Power Generation,UK & North Sea,1,974841.0,3. Accelerated (all options)
+2030,Power Generation,UK & North Sea,2,0.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Asia Pacific,1,13739.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Asia Pacific,2,20672.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Continental Europe,1,13459.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Continental Europe,2,20044.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Middle East,1,7072.0,3. Accelerated (all options)
+2030,Renewables & New Energy,Middle East,2,10585.0,3. Accelerated (all options)
+2030,Renewables & New Energy,North America,1,13112.0,3. Accelerated (all options)
+2030,Renewables & New Energy,North America,2,19717.0,3. Accelerated (all options)
+2030,Renewables & New Energy,UK & North Sea,1,20399.0,3. Accelerated (all options)
+2030,Renewables & New Energy,UK & North Sea,2,30604.0,3. Accelerated (all options)
+2030,Upstream Oil & Gas,Asia Pacific,1,89372.0,3. Accelerated (all options)
+2030,Upstream Oil & Gas,Middle East,1,1222995.0,3. Accelerated (all options)
+2030,Upstream Oil & Gas,North America,1,957977.0,3. Accelerated (all options)
+2030,Upstream Oil & Gas,UK & North Sea,1,1671796.0,3. Accelerated (all options)

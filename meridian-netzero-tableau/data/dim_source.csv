@@ -1,0 +1,8 @@
+source_id,source_name,scope,source_category
+S01,Stationary Combustion,1,Combustion
+S02,Mobile Combustion,1,Mobile
+S03,Flaring,1,Flaring
+S04,Fugitive Methane,1,Methane & Fugitive
+S05,SF6 & Other Fugitive,1,Methane & Fugitive
+S06,Process Emissions,1,Process
+S07,Purchased Electricity,2,Electricity (Scope 2)

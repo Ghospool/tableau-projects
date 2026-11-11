@@ -1,0 +1,151 @@
+asset_id,asset_name,asset_type,business_unit,region,country,latitude,longitude,commissioning_year,ownership_pct
+A001,Coal Power Plant 01 - United Kingdom,Coal Power Plant,Power Generation,UK & North Sea,United Kingdom,56.1248,1.3744,2003,50
+A002,Coal Power Plant 02 - Netherlands,Coal Power Plant,Power Generation,Continental Europe,Netherlands,49.1325,7.5326,2004,80
+A003,Coal Power Plant 03 - Poland,Coal Power Plant,Power Generation,Continental Europe,Poland,48.1181,7.8223,2019,65
+A004,Coal Power Plant 04 - Indonesia,Coal Power Plant,Power Generation,Asia Pacific,Indonesia,0.2882,114.5434,2005,100
+A005,Coal Power Plant 05 - Malaysia,Coal Power Plant,Power Generation,Asia Pacific,Malaysia,3.1304,104.1826,1986,50
+A006,Coal Power Plant 06 - USA,Coal Power Plant,Power Generation,North America,USA,30.8606,-98.747,2013,100
+A007,Gas CCGT Plant 01 - USA,Gas CCGT Plant,Power Generation,North America,USA,40.0617,-90.1035,1992,100
+A008,Gas CCGT Plant 02 - Norway,Gas CCGT Plant,Power Generation,UK & North Sea,Norway,58.6303,1.0226,1986,80
+A009,Gas CCGT Plant 03 - Canada,Gas CCGT Plant,Power Generation,North America,Canada,37.6167,-89.8657,1993,80
+A010,Gas CCGT Plant 04 - Poland,Gas CCGT Plant,Power Generation,Continental Europe,Poland,48.7801,5.3864,2020,100
+A011,Gas CCGT Plant 05 - Canada,Gas CCGT Plant,Power Generation,North America,Canada,35.4949,-104.7235,1995,100
+A012,Gas CCGT Plant 06 - Poland,Gas CCGT Plant,Power Generation,Continental Europe,Poland,47.6941,6.0593,2012,100
+A013,Gas CCGT Plant 07 - United Kingdom,Gas CCGT Plant,Power Generation,UK & North Sea,United Kingdom,56.17,1.7985,2017,100
+A014,Gas CCGT Plant 08 - Poland,Gas CCGT Plant,Power Generation,Continental Europe,Poland,48.7091,8.5461,1994,100
+A015,Gas CCGT Plant 09 - Canada,Gas CCGT Plant,Power Generation,North America,Canada,29.2262,-103.6121,2010,80
+A016,Gas CCGT Plant 10 - Netherlands,Gas CCGT Plant,Power Generation,Continental Europe,Netherlands,51.7804,7.147,2016,80
+A017,Gas CCGT Plant 11 - Spain,Gas CCGT Plant,Power Generation,Continental Europe,Spain,52.3429,8.3767,1998,80
+A018,Gas CCGT Plant 12 - Canada,Gas CCGT Plant,Power Generation,North America,Canada,36.6446,-98.452,2012,65
+A019,Gas CCGT Plant 13 - USA,Gas CCGT Plant,Power Generation,North America,USA,30.7352,-103.6077,1985,100
+A020,Gas CCGT Plant 14 - Germany,Gas CCGT Plant,Power Generation,Continental Europe,Germany,47.3539,10.7687,2011,100
+A021,Refinery 01 - Canada,Refinery,Midstream & Refining,North America,Canada,38.4373,-88.5139,1986,80
+A022,Refinery 02 - Poland,Refinery,Midstream & Refining,Continental Europe,Poland,50.3851,11.2534,1986,65
+A023,Refinery 03 - Netherlands,Refinery,Midstream & Refining,Continental Europe,Netherlands,53.9938,8.68,1992,50
+A024,Refinery 04 - Canada,Refinery,Midstream & Refining,North America,Canada,32.3107,-97.8482,2016,100
+A025,Offshore Platform 01 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,55.9016,5.0581,2000,50
+A026,Offshore Platform 02 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,57.1949,0.8525,2010,100
+A027,Offshore Platform 03 - United Kingdom,Offshore Platform,Upstream Oil & Gas,UK & North Sea,United Kingdom,57.1251,0.9406,2008,100
+A028,Offshore Platform 04 - USA,Offshore Platform,Upstream Oil & Gas,North America,USA,29.2382,-97.8724,2017,80
+A029,Offshore Platform 05 - Saudi Arabia,Offshore Platform,Upstream Oil & Gas,Middle East,Saudi Arabia,19.716,52.3521,2000,65
+A030,Offshore Platform 06 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,52.7427,2.6154,1990,100
+A031,Offshore Platform 07 - Saudi Arabia,Offshore Platform,Upstream Oil & Gas,Middle East,Saudi Arabia,25.3843,50.9561,1986,50
+A032,Offshore Platform 08 - Canada,Offshore Platform,Upstream Oil & Gas,North America,Canada,37.8281,-90.1055,1996,50
+A033,Offshore Platform 09 - UAE,Offshore Platform,Upstream Oil & Gas,Middle East,UAE,27.5754,51.6555,2001,80
+A034,Offshore Platform 10 - USA,Offshore Platform,Upstream Oil & Gas,North America,USA,38.5998,-110.6905,1988,100
+A035,Offshore Platform 11 - Canada,Offshore Platform,Upstream Oil & Gas,North America,Canada,35.3008,-101.3332,2011,65
+A036,Offshore Platform 12 - Australia,Offshore Platform,Upstream Oil & Gas,Asia Pacific,Australia,5.0389,115.6811,2008,100
+A037,Offshore Platform 13 - Saudi Arabia,Offshore Platform,Upstream Oil & Gas,Middle East,Saudi Arabia,26.6347,51.0467,2009,100
+A038,Offshore Platform 14 - UAE,Offshore Platform,Upstream Oil & Gas,Middle East,UAE,25.5328,53.557,2022,50
+A039,Offshore Platform 15 - United Kingdom,Offshore Platform,Upstream Oil & Gas,UK & North Sea,United Kingdom,55.4783,1.4415,2000,65
+A040,Offshore Platform 16 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,56.8988,3.4434,2006,65
+A041,Offshore Platform 17 - UAE,Offshore Platform,Upstream Oil & Gas,Middle East,UAE,26.8025,52.754,2009,80
+A042,Offshore Platform 18 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,57.0988,2.5404,1987,100
+A043,Offshore Platform 19 - Saudi Arabia,Offshore Platform,Upstream Oil & Gas,Middle East,Saudi Arabia,22.5144,47.2214,2019,100
+A044,Offshore Platform 20 - USA,Offshore Platform,Upstream Oil & Gas,North America,USA,34.8602,-95.6679,2022,100
+A045,Offshore Platform 21 - USA,Offshore Platform,Upstream Oil & Gas,North America,USA,36.7511,-107.2746,2018,80
+A046,Offshore Platform 22 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,56.1466,0.9661,2002,100
+A047,Offshore Platform 23 - United Kingdom,Offshore Platform,Upstream Oil & Gas,UK & North Sea,United Kingdom,57.4028,1.6247,2012,100
+A048,Offshore Platform 24 - Norway,Offshore Platform,Upstream Oil & Gas,UK & North Sea,Norway,54.8298,1.1088,2014,100
+A049,Gas Processing 01 - Indonesia,Gas Processing,Midstream & Refining,Asia Pacific,Indonesia,6.0257,100.9194,2017,50
+A050,Gas Processing 02 - Norway,Gas Processing,Midstream & Refining,UK & North Sea,Norway,55.3324,0.7414,2008,50
+A051,Gas Processing 03 - Canada,Gas Processing,Midstream & Refining,North America,Canada,36.375,-107.5323,2022,100
+A052,Gas Processing 04 - Netherlands,Gas Processing,Midstream & Refining,Continental Europe,Netherlands,48.5958,7.0844,2017,80
+A053,Gas Processing 05 - Canada,Gas Processing,Midstream & Refining,North America,Canada,33.7983,-88.6283,1987,100
+A054,Gas Processing 06 - Saudi Arabia,Gas Processing,Midstream & Refining,Middle East,Saudi Arabia,23.2779,50.2284,1987,50
+A055,Gas Processing 07 - Netherlands,Gas Processing,Midstream & Refining,Continental Europe,Netherlands,49.2224,10.9526,2015,80
+A056,Gas Processing 08 - Canada,Gas Processing,Midstream & Refining,North America,Canada,38.1111,-90.0769,1994,80
+A057,Gas Processing 09 - USA,Gas Processing,Midstream & Refining,North America,USA,27.9307,-110.1422,1998,100
+A058,Gas Processing 10 - USA,Gas Processing,Midstream & Refining,North America,USA,34.4617,-104.94,1991,65
+A059,Compressor Station 01 - Saudi Arabia,Compressor Station,Midstream & Refining,Middle East,Saudi Arabia,28.0951,46.1052,2000,100
+A060,Compressor Station 02 - USA,Compressor Station,Midstream & Refining,North America,USA,38.7675,-101.0382,2020,65
+A061,Compressor Station 03 - Oman,Compressor Station,Midstream & Refining,Middle East,Oman,27.134,52.1564,2019,65
+A062,Compressor Station 04 - USA,Compressor Station,Midstream & Refining,North America,USA,38.3806,-96.3967,1993,50
+A063,Compressor Station 05 - USA,Compressor Station,Midstream & Refining,North America,USA,32.9887,-100.8403,2008,100
+A064,Compressor Station 06 - Netherlands,Compressor Station,Midstream & Refining,Continental Europe,Netherlands,46.7535,5.8366,1989,80
+A065,Compressor Station 07 - Australia,Compressor Station,Midstream & Refining,Asia Pacific,Australia,15.3676,110.6132,2008,100
+A066,Compressor Station 08 - Indonesia,Compressor Station,Midstream & Refining,Asia Pacific,Indonesia,3.6478,108.6811,2002,65
+A067,Compressor Station 09 - USA,Compressor Station,Midstream & Refining,North America,USA,33.9481,-92.5541,1991,50
+A068,Compressor Station 10 - USA,Compressor Station,Midstream & Refining,North America,USA,24.3056,-102.0919,2001,80
+A069,Compressor Station 11 - Norway,Compressor Station,Midstream & Refining,UK & North Sea,Norway,57.4165,3.4435,1988,65
+A070,Compressor Station 12 - Oman,Compressor Station,Midstream & Refining,Middle East,Oman,26.1396,51.2781,1992,65
+A071,Compressor Station 13 - Norway,Compressor Station,Midstream & Refining,UK & North Sea,Norway,55.6345,-0.0415,1986,80
+A072,Compressor Station 14 - Canada,Compressor Station,Midstream & Refining,North America,Canada,34.6968,-106.4291,2009,80
+A073,Compressor Station 15 - United Kingdom,Compressor Station,Midstream & Refining,UK & North Sea,United Kingdom,57.1325,1.088,2012,100
+A074,Compressor Station 16 - USA,Compressor Station,Midstream & Refining,North America,USA,34.9887,-88.2899,2022,100
+A075,Compressor Station 17 - Norway,Compressor Station,Midstream & Refining,UK & North Sea,Norway,55.8864,2.5837,1999,80
+A076,Compressor Station 18 - Vietnam,Compressor Station,Midstream & Refining,Asia Pacific,Vietnam,3.539,88.0813,2012,100
+A077,Compressor Station 19 - Canada,Compressor Station,Midstream & Refining,North America,Canada,32.7909,-94.1796,1992,100
+A078,Compressor Station 20 - Canada,Compressor Station,Midstream & Refining,North America,Canada,34.7092,-96.977,1987,50
+A079,Wind Farm 01 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,52.5456,0.3185,1991,50
+A080,Wind Farm 02 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,6.585,100.3898,2008,50
+A081,Wind Farm 03 - Germany,Wind Farm,Renewables & New Energy,Continental Europe,Germany,54.4201,12.5222,2010,80
+A082,Wind Farm 04 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,19.2713,109.675,1987,100
+A083,Wind Farm 05 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,56.2269,2.1724,2022,80
+A084,Wind Farm 06 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,56.3616,-1.3401,2018,100
+A085,Wind Farm 07 - Netherlands,Wind Farm,Renewables & New Energy,Continental Europe,Netherlands,52.0307,3.2848,1988,80
+A086,Wind Farm 08 - Spain,Wind Farm,Renewables & New Energy,Continental Europe,Spain,48.6034,6.7606,2017,100
+A087,Wind Farm 09 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,55.2797,-1.069,2012,65
+A088,Wind Farm 10 - Norway,Wind Farm,Renewables & New Energy,UK & North Sea,Norway,56.1418,3.4901,2015,100
+A089,Wind Farm 11 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,10.8905,100.7474,1989,100
+A090,Wind Farm 12 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,1.6171,113.3199,2021,100
+A091,Wind Farm 13 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,55.058,1.5821,1994,50
+A092,Wind Farm 14 - Oman,Wind Farm,Renewables & New Energy,Middle East,Oman,27.4443,52.2034,2010,100
+A093,Wind Farm 15 - Germany,Wind Farm,Renewables & New Energy,Continental Europe,Germany,51.5191,11.2334,2000,65
+A094,Wind Farm 16 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,5.7259,120.3486,2001,80
+A095,Wind Farm 17 - USA,Wind Farm,Renewables & New Energy,North America,USA,33.0979,-87.7324,2007,80
+A096,Wind Farm 18 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,55.6878,1.0338,1993,50
+A097,Wind Farm 19 - Canada,Wind Farm,Renewables & New Energy,North America,Canada,33.7474,-97.4851,2016,100
+A098,Wind Farm 20 - Norway,Wind Farm,Renewables & New Energy,UK & North Sea,Norway,55.8652,0.7147,2017,100
+A099,Wind Farm 21 - Germany,Wind Farm,Renewables & New Energy,Continental Europe,Germany,52.6123,13.6639,1989,100
+A100,Wind Farm 22 - USA,Wind Farm,Renewables & New Energy,North America,USA,35.168,-97.0298,2013,65
+A101,Wind Farm 23 - Australia,Wind Farm,Renewables & New Energy,Asia Pacific,Australia,0.2169,103.065,2002,100
+A102,Wind Farm 24 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,55.2711,-0.3093,2019,100
+A103,Wind Farm 25 - Saudi Arabia,Wind Farm,Renewables & New Energy,Middle East,Saudi Arabia,25.1011,52.046,1999,65
+A104,Wind Farm 26 - Indonesia,Wind Farm,Renewables & New Energy,Asia Pacific,Indonesia,9.5972,105.6496,1991,100
+A105,Wind Farm 27 - Norway,Wind Farm,Renewables & New Energy,UK & North Sea,Norway,56.8577,0.3481,1992,100
+A106,Wind Farm 28 - United Kingdom,Wind Farm,Renewables & New Energy,UK & North Sea,United Kingdom,55.7426,-0.037,1995,80
+A107,Solar PV Park 01 - Oman,Solar PV Park,Renewables & New Energy,Middle East,Oman,24.5873,52.002,2007,100
+A108,Solar PV Park 02 - Netherlands,Solar PV Park,Renewables & New Energy,Continental Europe,Netherlands,49.7688,11.0611,2016,80
+A109,Solar PV Park 03 - Poland,Solar PV Park,Renewables & New Energy,Continental Europe,Poland,51.6554,9.5076,2018,80
+A110,Solar PV Park 04 - Norway,Solar PV Park,Renewables & New Energy,UK & North Sea,Norway,54.8635,1.8987,1993,100
+A111,Solar PV Park 05 - Vietnam,Solar PV Park,Renewables & New Energy,Asia Pacific,Vietnam,16.3128,102.4073,2009,100
+A112,Solar PV Park 06 - Spain,Solar PV Park,Renewables & New Energy,Continental Europe,Spain,50.4866,12.345,1989,50
+A113,Solar PV Park 07 - Canada,Solar PV Park,Renewables & New Energy,North America,Canada,29.3601,-96.8307,1996,50
+A114,Solar PV Park 08 - Spain,Solar PV Park,Renewables & New Energy,Continental Europe,Spain,51.0191,13.9154,1994,100
+A115,Solar PV Park 09 - United Kingdom,Solar PV Park,Renewables & New Energy,UK & North Sea,United Kingdom,56.7641,2.333,1985,65
+A116,Solar PV Park 10 - Canada,Solar PV Park,Renewables & New Energy,North America,Canada,34.6489,-98.3967,1998,65
+A117,Solar PV Park 11 - United Kingdom,Solar PV Park,Renewables & New Energy,UK & North Sea,United Kingdom,54.7057,5.2773,2016,65
+A118,Solar PV Park 12 - Norway,Solar PV Park,Renewables & New Energy,UK & North Sea,Norway,56.3554,0.6638,2014,65
+A119,Solar PV Park 13 - Vietnam,Solar PV Park,Renewables & New Energy,Asia Pacific,Vietnam,10.8168,110.0776,1996,100
+A120,Solar PV Park 14 - USA,Solar PV Park,Renewables & New Energy,North America,USA,30.6182,-92.4063,2008,50
+A121,Solar PV Park 15 - Spain,Solar PV Park,Renewables & New Energy,Continental Europe,Spain,51.8938,6.7979,2006,100
+A122,Solar PV Park 16 - Canada,Solar PV Park,Renewables & New Energy,North America,Canada,37.7556,-87.9295,2010,100
+A123,Solar PV Park 17 - Oman,Solar PV Park,Renewables & New Energy,Middle East,Oman,26.1104,49.0761,2018,80
+A124,Solar PV Park 18 - Oman,Solar PV Park,Renewables & New Energy,Middle East,Oman,25.5199,46.6096,1998,50
+A125,Solar PV Park 19 - Canada,Solar PV Park,Renewables & New Energy,North America,Canada,35.4949,-95.9455,2002,100
+A126,Solar PV Park 20 - Malaysia,Solar PV Park,Renewables & New Energy,Asia Pacific,Malaysia,-0.2963,109.5097,1990,100
+A127,Solar PV Park 21 - USA,Solar PV Park,Renewables & New Energy,North America,USA,32.2028,-103.3733,1988,65
+A128,Solar PV Park 22 - Saudi Arabia,Solar PV Park,Renewables & New Energy,Middle East,Saudi Arabia,27.612,50.5897,2005,100
+A129,Solar PV Park 23 - USA,Solar PV Park,Renewables & New Energy,North America,USA,34.3382,-103.2729,2011,100
+A130,Solar PV Park 24 - Oman,Solar PV Park,Renewables & New Energy,Middle East,Oman,26.2167,48.9735,2020,50
+A131,Grid & Networks 01 - Germany,Grid & Networks,Networks & Corporate,Continental Europe,Germany,53.824,7.5263,1994,100
+A132,Grid & Networks 02 - Poland,Grid & Networks,Networks & Corporate,Continental Europe,Poland,49.9413,4.8155,2005,80
+A133,Grid & Networks 03 - Oman,Grid & Networks,Networks & Corporate,Middle East,Oman,22.6948,51.5663,2000,50
+A134,Grid & Networks 04 - Indonesia,Grid & Networks,Networks & Corporate,Asia Pacific,Indonesia,10.3467,100.6254,2005,80
+A135,Grid & Networks 05 - United Kingdom,Grid & Networks,Networks & Corporate,UK & North Sea,United Kingdom,56.1238,2.7056,1985,50
+A136,Grid & Networks 06 - Canada,Grid & Networks,Networks & Corporate,North America,Canada,31.3781,-94.3022,1994,50
+A137,Grid & Networks 07 - Saudi Arabia,Grid & Networks,Networks & Corporate,Middle East,Saudi Arabia,22.2701,51.8118,2017,65
+A138,Grid & Networks 08 - Germany,Grid & Networks,Networks & Corporate,Continental Europe,Germany,48.5337,9.345,2000,80
+A139,Buildings & Fleet 01 - USA,Buildings & Fleet,Networks & Corporate,North America,USA,38.105,-92.9612,2016,100
+A140,Buildings & Fleet 02 - United Kingdom,Buildings & Fleet,Networks & Corporate,UK & North Sea,United Kingdom,56.8138,2.2733,2019,100
+A141,Buildings & Fleet 03 - Oman,Buildings & Fleet,Networks & Corporate,Middle East,Oman,28.3247,51.2717,1986,50
+A142,Buildings & Fleet 04 - Vietnam,Buildings & Fleet,Networks & Corporate,Asia Pacific,Vietnam,4.8899,100.6654,2008,50
+A143,Buildings & Fleet 05 - Canada,Buildings & Fleet,Networks & Corporate,North America,Canada,24.388,-101.0387,1993,100
+A144,Buildings & Fleet 06 - United Kingdom,Buildings & Fleet,Networks & Corporate,UK & North Sea,United Kingdom,56.1994,2.7722,2021,65
+A145,Buildings & Fleet 07 - Canada,Buildings & Fleet,Networks & Corporate,North America,Canada,33.898,-99.5498,2004,100
+A146,Buildings & Fleet 08 - Saudi Arabia,Buildings & Fleet,Networks & Corporate,Middle East,Saudi Arabia,20.639,53.0364,2001,50
+A147,Buildings & Fleet 09 - United Kingdom,Buildings & Fleet,Networks & Corporate,UK & North Sea,United Kingdom,56.521,0.3068,2010,50
+A148,Buildings & Fleet 10 - Indonesia,Buildings & Fleet,Networks & Corporate,Asia Pacific,Indonesia,8.8949,110.4825,1998,65
+A149,Buildings & Fleet 11 - Canada,Buildings & Fleet,Networks & Corporate,North America,Canada,38.9577,-94.3945,2020,65
+A150,Buildings & Fleet 12 - Vietnam,Buildings & Fleet,Networks & Corporate,Asia Pacific,Vietnam,6.9436,101.53,1995,50

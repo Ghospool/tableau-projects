@@ -7,6 +7,7 @@ All projects use public or synthetic data.
 | Project | Question answered | Live dashboard |
 |---|---|---|
 | [Aviation Safety: Executive Overview](aviation-safety-tableau) | Where, when and in what circumstances are recorded aviation accidents concentrated, and how reliable is the record? | [Tableau Public](https://public.tableau.com/app/profile/gospel.ayodele.iyioku/viz/AviationSafetyExecutiveOverview/Overview#1) |
+| [Meridian Energy: Net-Zero Pathway](meridian-netzero-tableau/) | Is Meridian on track for its 2030 -45% emissions target, and what closes the gap? | [Tableau Public](https://public.tableau.com/app/profile/gospel.ayodele.iyioku/viz/Meridian_NetZero_Tableau/ExecutiveOverview) |
 
 ## Related work
 
